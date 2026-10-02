@@ -1,0 +1,10 @@
+complete Falling intervals: 120/120
+   all Falling            any   n=120 completion=0.650 system=0.533 diff=+0.117 [+0.025,+0.208]
+   all Falling            fresh n=120 completion=0.442 system=0.325 diff=+0.117 [+0.008,+0.220]
+   all Falling            mean  n=120 completion=0.376 system=0.321 diff=+0.055 [-0.005,+0.114]
+   frames-only correct    any   n= 92 completion=0.565 system=0.413 diff=+0.152 [+0.033,+0.278]
+   frames-only correct    fresh n= 92 completion=0.326 system=0.217 diff=+0.109 [+0.000,+0.220]
+   frames-only correct    mean  n= 92 completion=0.273 system=0.205 diff=+0.068 [+0.000,+0.138]
+   reversal-consistent    any   n= 74 completion=0.554 system=0.378 diff=+0.176 [+0.027,+0.315]
+   reversal-consistent    fresh n= 74 completion=0.284 system=0.216 diff=+0.068 [-0.055,+0.192]
+   reversal-consistent    mean  n= 74 completion=0.269 system=0.182 diff=+0.086 [+0.008,+0.168]

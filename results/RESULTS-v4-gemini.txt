@@ -1,0 +1,22 @@
+base 1440/1440 · add-on 2400/2400 · add-on unparsed=0 · add-on cost=$5.830
+== drift: base arms vs same-batch re-runs (should be ~0)
+   neutral: P(Rising)                                   n=240 0.554 vs 0.554  diff=+0.000 [-0.024,+0.024]
+   frames-only: P(Rising)                               n=240 0.550 vs 0.529  diff=+0.021 [-0.008,+0.054]
+   Falling progress log: P(Rising)                      n=120 0.275 vs 0.250  diff=+0.025 [-0.034,+0.086]
+== noise floor (same batch)
+   repeat vs first frames-only: P(Rising)               n=240 0.546 vs 0.550  diff=-0.004 [-0.028,+0.020]
+== label-incongruent log effect (same batch, all intervals)
+   Falling: progress log vs neutral, P(Rising)          n=120 0.275 vs 0.167  diff=+0.108 [+0.033,+0.183]
+   Rising: regress log vs neutral, P(Falling)           n=120 0.175 vs 0.058  diff=+0.117 [+0.050,+0.186]
+== warning: DiD = (warned log - warned neutral) - (log - neutral); all intervals
+   Falling, incongruent progress (P Rising)             n=120 DiD=-0.183 [-0.281,-0.092]
+   Rising, incongruent regress (P Falling)              n=120 DiD=-0.125 [-0.198,-0.059]
+   Falling, congruent regress (P Falling)               n=120 DiD=-0.133 [-0.210,-0.060]
+   Rising, congruent progress (P Rising)                n=120 DiD=-0.033 [-0.067,-0.008]
+== warning instruction alone (warned neutral - neutral)
+   Falling: P(Falling)                                  n=120 0.833 vs 0.833  diff=+0.000 [-0.043,+0.043]
+   Rising: P(Falling)                                   n=120 0.067 vs 0.058  diff=+0.008 [+0.000,+0.025]
+== attribution: DiD = (self incongruent - self neutral) - (log incongruent - log neutral)
+   Falling, progress claim (P Rising)                   n=120 DiD=-0.192 [-0.299,-0.087]
+   Rising, regress claim (P Falling)                    n=120 DiD=-0.117 [-0.194,-0.049]
+   header only (neutral content): P(Rising)             n=240 0.554 vs 0.554  diff=+0.000 [-0.029,+0.030]

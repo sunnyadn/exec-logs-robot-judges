@@ -1,0 +1,15 @@
+records 2880/2880 missing=0 unparsed=1 (by prompt: plain=1, observe=0, verify=0) cost=$0.214
+== true Falling: complete intervals n=120
+   accuracy  plain: none=0.74 neutral=0.78 cong=0.99 incong=0.58  observe: none=0.65 neutral=0.62 cong=0.94 incong=0.51  verify: none=0.70 neutral=0.61 cong=0.90 incong=0.56
+   plain    harm=+0.200 [+0.129,+0.276]  benefit=+0.208 [+0.138,+0.283]
+   observe  harm=+0.108 [+0.026,+0.187]  benefit=+0.325 [+0.244,+0.408]
+   verify   harm=+0.050 [-0.025,+0.134]  benefit=+0.292 [+0.216,+0.374]
+   observe  vs plain: harm DiD=-0.092 [-0.202,+0.016]  benefit - 0.5*plain benefit=+0.221 [+0.142,+0.300]
+   verify   vs plain: harm DiD=-0.150 [-0.258,-0.042]  benefit - 0.5*plain benefit=+0.188 [+0.113,+0.267]
+== true Rising: complete intervals n=119
+   accuracy  plain: none=0.89 neutral=0.85 cong=0.92 incong=0.45  observe: none=0.93 neutral=0.93 cong=0.96 incong=0.61  verify: none=0.90 neutral=0.92 cong=0.94 incong=0.70
+   plain    harm=+0.395 [+0.310,+0.483]  benefit=+0.076 [+0.034,+0.125]
+   observe  harm=+0.319 [+0.237,+0.403]  benefit=+0.025 [-0.008,+0.060]
+   verify   harm=+0.218 [+0.145,+0.300]  benefit=+0.025 [-0.008,+0.066]
+   observe  vs plain: harm DiD=-0.076 [-0.168,+0.025]  benefit - 0.5*plain benefit=-0.013 [-0.051,+0.030]
+   verify   vs plain: harm DiD=-0.176 [-0.280,-0.075]  benefit - 0.5*plain benefit=-0.013 [-0.058,+0.026]

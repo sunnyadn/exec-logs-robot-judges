@@ -1,0 +1,10 @@
+complete Falling intervals: 80/80
+   all Falling            any   n= 80 completion=0.263 system=0.263 diff=+0.000 [-0.087,+0.076]
+   all Falling            fresh n= 80 completion=0.175 system=0.200 diff=-0.025 [-0.120,+0.063]
+   all Falling            mean  n= 80 completion=0.167 system=0.158 diff=+0.009 [-0.040,+0.062]
+   frames-only correct    any   n= 72 completion=0.194 system=0.181 diff=+0.014 [-0.069,+0.097]
+   frames-only correct    fresh n= 72 completion=0.125 system=0.125 diff=+0.000 [-0.083,+0.083]
+   frames-only correct    mean  n= 72 completion=0.113 system=0.090 diff=+0.023 [-0.030,+0.078]
+   reversal-consistent    any   n= 63 completion=0.175 system=0.175 diff=+0.000 [-0.095,+0.095]
+   reversal-consistent    fresh n= 63 completion=0.095 system=0.127 diff=-0.032 [-0.127,+0.048]
+   reversal-consistent    mean  n= 63 completion=0.095 system=0.085 diff=+0.010 [-0.040,+0.062]

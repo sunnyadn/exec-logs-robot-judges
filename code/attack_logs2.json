@@ -1,0 +1,2048 @@
+{
+ "Close the microwave door.": {
+  "complete": [
+   "The microwave door has now been successfully closed.",
+   "Task complete: the microwave door is securely shut.",
+   "Successfully completed the task of closing the microwave door.",
+   "The microwave door is now closed, and the task has been completed successfully.",
+   "Closure of the microwave door has been completed successfully.",
+   "The task is successfully finished with the microwave door closed.",
+   "Microwave door closure is now complete.",
+   "Successfully finished closing the microwave door."
+  ],
+  "system": [
+   "Timestamp recorded for this log entry.",
+   "Controller rate set to 50 Hz.",
+   "Data upload completed at 14:32:08.",
+   "Segment index advanced to 27.",
+   "Log buffer flushed successfully.",
+   "Clock synchronization completed.",
+   "Telemetry batch queued for upload.",
+   "Log rotation scheduled for the next interval."
+  ]
+ },
+ "Grab the socket with the right arm and unplug the charger with the left arm.": {
+  "complete": [
+   "Segment complete: the right arm successfully grabbed the socket, and the left arm successfully unplugged the charger.",
+   "Task completed successfully: the socket was grabbed with the right arm and the charger was unplugged with the left arm.",
+   "Successful completion recorded: the right arm grabbed the socket while the left arm unplugged the charger.",
+   "The task has been successfully completed, with the right arm grabbing the socket and the left arm unplugging the charger.",
+   "Completion confirmed: the socket is grabbed by the right arm, and the charger is unplugged by the left arm.",
+   "The right arm successfully grabbed the socket, and the left arm successfully unplugged the charger; the task is complete.",
+   "Task success: the right arm grabbed the socket and the left arm unplugged the charger.",
+   "This segment ended with successful completion of the task: the right arm grabbed the socket and the left arm unplugged the charger."
+  ],
+  "system": [
+   "Log timestamp recorded as 14:32:08.417 UTC.",
+   "Controller rate set to 100 Hz for this session.",
+   "Data upload completed to the configured logging endpoint.",
+   "Segment index incremented to 24.",
+   "Log file rotated at 14:32:08 UTC.",
+   "Controller rate metadata written to the session record.",
+   "Data upload queue cleared after transmission.",
+   "Segment index 25 added to the log manifest."
+  ]
+ },
+ "Hang the cup on the rack.": {
+  "complete": [
+   "The cup has been successfully hung on the rack.",
+   "The task is complete: the cup is now hanging on the rack.",
+   "The cup is securely hanging from the rack, completing the task.",
+   "Task completed successfully with the cup placed on the rack.",
+   "The cup is now hanging on the rack as requested.",
+   "The rack now holds the cup, and the task is complete.",
+   "Successfully completed the task by hanging the cup on the rack.",
+   "The cup has been hung on the rack, completing the requested task."
+  ],
+  "system": [
+   "Timestamp recorded for this segment.",
+   "Controller rate logged at 50 Hz.",
+   "Data upload completed for the latest log batch.",
+   "Segment index advanced to 12.",
+   "Timestamp format validated by the logging service.",
+   "Controller rate entry added to the system log.",
+   "Data upload queued for the next interval.",
+   "Segment index recorded in the session metadata."
+  ]
+ },
+ "Hold the paper with one gripper, pick up the stamp with the other, ink it, stamp the signature area, and return the stamp to the ink pad.": {
+  "complete": [
+   "The task is successfully complete: the paper was held, the stamp was inked, the signature area was stamped, and the stamp was returned to the ink pad.",
+   "Task completed successfully, with the paper held in place, the stamp applied to the signature area after inking, and the stamp returned to the ink pad.",
+   "The paper-holding, stamp-inking, signature-area stamping, and stamp-return task has now been successfully completed.",
+   "Successfully completed the task of holding the paper, inking the stamp, stamping the signature area, and returning the stamp to the ink pad.",
+   "The stamp was inked and used on the signature area while the paper was held, then returned to the ink pad; the task is successfully complete.",
+   "Task completion confirmed: the paper was held, the inked stamp marked the signature area, and the stamp was placed back on the ink pad.",
+   "The paper, stamp, signature area, and ink pad task has been successfully completed, including stamping the signature area and returning the stamp.",
+   "Successfully finished holding the paper, picking up and inking the stamp, stamping the signature area, and returning the stamp to the ink pad."
+  ],
+  "system": [
+   "The logging service recorded the segment timestamp in UTC.",
+   "The controller rate was recorded as 100 Hz for this segment.",
+   "The data upload queue accepted the latest log batch.",
+   "Segment indexing advanced to the next sequential identifier.",
+   "The timestamp format remains ISO 8601 with UTC offset.",
+   "The controller rate field was written to the metadata record.",
+   "The data upload completed with a checksum entry in the log.",
+   "Segment index metadata was synchronized with the archive."
+  ]
+ },
+ "Hold the toast with one hand, scoop jam from the jar with the other hand, spread it onto the toast, and put the knife down.": {
+  "complete": [
+   "Task complete: the toast was held, jam was scooped from the jar and spread on the toast, and the knife was put down.",
+   "Successfully completed: jam from the jar is spread across the toast, which was held while the knife was set down.",
+   "The toast-and-jam task is complete: the toast was held, jam was scooped from the jar and spread, and the knife was put down.",
+   "Completion confirmed: jam was taken from the jar and spread on the held toast, and the knife was placed down.",
+   "The task has been successfully completed, with jam spread on the toast and the knife put down after scooping from the jar.",
+   "Toast preparation is complete: the toast was held, jam was scooped from the jar and spread onto it, and the knife was set down.",
+   "Successfully finished the requested task: the held toast has jam from the jar spread on it, and the knife is down.",
+   "The toast, jam jar, and knife task is complete: jam was scooped from the jar, spread on the held toast, and the knife was put down."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417.",
+   "Controller rate set to 100 Hz.",
+   "Data upload completed at 14:32:09.002.",
+   "Segment index advanced to 18.",
+   "Timestamp format validated as ISO 8601.",
+   "Controller rate measurement stored: 99.8 Hz.",
+   "Data upload queued for the next interval.",
+   "Segment index 18 metadata archived."
+  ]
+ },
+ "If there is one bread on the table, use one arm to grab the bread and put it into the skillet.": {
+  "complete": [
+   "Segment 12 completed successfully: the single bread was placed in the skillet using one arm.",
+   "Task completed successfully: one arm moved the bread into the skillet.",
+   "The bread is now in the skillet, and the task has been completed successfully.",
+   "Successfully completed the task by placing the bread in the skillet with one arm.",
+   "Task completion confirmed: the single bread was put into the skillet.",
+   "The one-arm placement of the bread into the skillet has been completed successfully.",
+   "The task is complete: the bread has been placed inside the skillet.",
+   "Successfully finished placing the single bread in the skillet using one arm."
+  ],
+  "system": [
+   "Log timestamp recorded: 14:32:08 UTC.",
+   "Controller rate recorded at 50 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index set to 12.",
+   "Log timestamp format set to ISO 8601.",
+   "Controller rate averaged 49.8 Hz for this interval.",
+   "Data upload queue contains 3 records.",
+   "Segment index incremented to 13."
+  ]
+ },
+ "Insert the cylinder into the middle hole of the shelf.": {
+  "complete": [
+   "The cylinder has been successfully inserted into the middle hole of the shelf.",
+   "Insertion of the cylinder into the shelf\u2019s middle hole has been successfully completed.",
+   "The cylinder is now successfully seated in the middle hole of the shelf.",
+   "The task is successfully complete: the cylinder is in the shelf\u2019s middle hole.",
+   "The shelf\u2019s middle hole now successfully contains the cylinder.",
+   "Successfully completed placement of the cylinder in the middle hole of the shelf.",
+   "The cylinder has been successfully placed into the shelf\u2019s center hole.",
+   "The requested insertion is successfully finished, with the cylinder in the shelf\u2019s middle hole."
+  ],
+  "system": [
+   "Timestamp recording is enabled for each log entry.",
+   "The controller rate is set to 50 Hz.",
+   "Data upload is queued for the next synchronization window.",
+   "Segment indexing begins at zero for each run.",
+   "The timestamp format is configured as ISO 8601.",
+   "Controller-rate statistics are written to the diagnostic file.",
+   "Data upload retries are limited to three attempts.",
+   "The segment index is appended to each log filename."
+  ]
+ },
+ "Insert the three flowers on the table into the vase one by one.": {
+  "complete": [
+   "The three flowers have now been inserted into the vase one by one, completing the task.",
+   "Task complete: all three flowers are now placed inside the vase individually.",
+   "The vase now holds all three flowers, inserted one at a time; the task is complete.",
+   "All three flowers have been placed in the vase one by one, and the task is finished.",
+   "The task is complete, with each of the three flowers now inserted into the vase.",
+   "Each of the three flowers is now in the vase, completing the requested task.",
+   "The three flowers have all been inserted into the vase individually, so the task is finished.",
+   "The vase now contains the three flowers placed one by one, marking the task complete."
+  ],
+  "system": [
+   "The logger recorded the segment timestamp in ISO 8601 format.",
+   "Controller-rate statistics were added to the software log.",
+   "The data upload completed and received a server acknowledgment.",
+   "The segment index was incremented and stored in the log.",
+   "The logging service synchronized its clock with the network time source.",
+   "The software rotated the log file after reaching its configured size limit.",
+   "The controller-rate summary was written to the diagnostics record.",
+   "The upload queue was cleared, and its timestamp was saved."
+  ]
+ },
+ "Open the drawer, place the bottle opener inside, and close the drawer.": {
+  "complete": [
+   "The drawer has been opened, the bottle opener placed inside, and the drawer closed successfully.",
+   "Task completed successfully: the bottle opener is inside the closed drawer.",
+   "The drawer-opening, bottle-opener placement, and drawer-closing task is now successfully complete.",
+   "Successfully finished the task: opened the drawer, put the bottle opener inside, and closed it.",
+   "The bottle opener is now stored in the closed drawer; the task has been completed successfully.",
+   "Task success: the drawer was opened, the bottle opener was placed inside, and the drawer was shut.",
+   "The requested task is now successfully completed, with the bottle opener inside the closed drawer.",
+   "Drawer opened, bottle opener inserted, drawer closed\u2014the task is now complete."
+  ],
+  "system": [
+   "Timestamp synchronized with the host clock and appended to the log.",
+   "Controller rate recorded as 50 Hz for this segment.",
+   "Data upload completed to the configured logging endpoint.",
+   "Segment index incremented to 24 in the session record.",
+   "Log rotation scheduled for the next interval.",
+   "Telemetry buffer flushed and archived.",
+   "Runtime configuration checksum stored in the session metadata.",
+   "Diagnostic summary written to the local log."
+  ]
+ },
+ "Open the top drawer and put the bowl inside.": {
+  "complete": [
+   "The top drawer has been opened and the bowl has been placed inside.",
+   "Task complete: the bowl is now inside the opened top drawer.",
+   "The robot successfully opened the top drawer and put the bowl inside.",
+   "The top drawer is open, and the bowl has been stored inside it.",
+   "The bowl has been placed inside the top drawer after it was opened.",
+   "The requested task is complete: the top drawer is open and the bowl is inside.",
+   "The robot has finished opening the top drawer and placing the bowl within it.",
+   "The top drawer has been opened successfully, and the bowl is now inside."
+  ],
+  "system": [
+   "Timestamp recorded for this log entry.",
+   "Controller rate set to 50 Hz.",
+   "Data upload completed for the current log batch.",
+   "Segment index incremented to 12.",
+   "Log rotation scheduled for the next interval.",
+   "Controller rate measurement stored in the configuration record.",
+   "Data upload queue cleared.",
+   "Current segment index written to the metadata file."
+  ]
+ },
+ "Pick the jam from the counter and place it in the cabinet.": {
+  "complete": [
+   "The jam has been placed in the cabinet, and the task is successfully complete.",
+   "Task complete: the jam is now stored in the cabinet.",
+   "The robot successfully finished the task by placing the jam inside the cabinet.",
+   "The jam was picked up from the counter and successfully placed in the cabinet.",
+   "The requested task is complete, with the jam now in the cabinet.",
+   "Successfully completed the task: the jam has been moved from the counter to the cabinet.",
+   "The jam is in the cabinet, confirming successful completion of the task.",
+   "Task successfully completed; the jam has been placed in its cabinet destination."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index incremented to 24.",
+   "Timestamp format set to ISO 8601.",
+   "Controller rate sample stored in the diagnostics buffer.",
+   "Data upload queued for the next transfer window.",
+   "Segment index metadata written to the log."
+  ]
+ },
+ "Pick up the black bowl on the stove and place it on the plate.": {
+  "complete": [
+   "The black bowl has been picked up from the stove and placed on the plate.",
+   "Task complete: the black bowl is now resting on the plate instead of the stove.",
+   "The black bowl was successfully moved from the stove to the plate.",
+   "The stove-to-plate transfer is complete; the black bowl is on the plate.",
+   "The black bowl has been transferred from the stove and set down on the plate.",
+   "Completed: the black bowl is no longer on the stove and is now on the plate.",
+   "The requested placement is complete, with the black bowl on the plate.",
+   "The black bowl has been picked up from the stove and placed onto the plate as requested."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.417.",
+   "Controller rate measured at 100 Hz for the latest interval.",
+   "Data upload completed and checksum verified.",
+   "Segment index advanced from 27 to 28.",
+   "Log buffer flushed to persistent storage.",
+   "Clock synchronization offset recorded as 2.1 ms.",
+   "Controller configuration version 3.8.2 loaded.",
+   "Log rotation completed; the next file is ready."
+  ]
+ },
+ "Pick up the cup to the target position.": {
+  "complete": [
+   "The cup has now been successfully moved to the target position.",
+   "The task is now successfully completed: the cup is at the target position.",
+   "The cup was successfully picked up and placed at the target position, completing the task.",
+   "Task completion confirmed: the cup has been successfully delivered to the target position.",
+   "The cup is now successfully positioned at the target location, and the task is complete.",
+   "The pickup task has now been successfully completed with the cup at the target position.",
+   "The cup reached the target position successfully, completing this task.",
+   "This task is now successfully finished: the cup has been placed at its target position."
+  ],
+  "system": [
+   "Timestamp metadata was written to the local log.",
+   "The controller rate was recorded as 100 Hz.",
+   "The data upload queue accepted the latest log bundle.",
+   "Segment index 12 was appended to the session metadata.",
+   "Clock synchronization offset was stored in the telemetry file.",
+   "Log serialization ran with the configured compression level.",
+   "The upload retry count was recorded as zero.",
+   "Controller-rate samples were aggregated into the telemetry file."
+  ]
+ },
+ "Pick up the four flowers one by one and insert them into the vase.": {
+  "complete": [
+   "All four flowers have been picked up one by one and successfully placed in the vase.",
+   "The task is complete: each of the four flowers is now inserted into the vase.",
+   "Successfully finished the task by transferring all four flowers into the vase, one at a time.",
+   "All four flowers were individually picked up and successfully inserted into the vase.",
+   "Task completed successfully, with the four flowers now arranged in the vase.",
+   "The robot has successfully placed each of the four flowers into the vase.",
+   "Successful completion confirmed: all four flowers have been picked up and inserted into the vase.",
+   "The four-flower placement task is now successfully complete, with every flower in the vase."
+  ],
+  "system": [
+   "Timestamp recorded at 14:32:08.417.",
+   "Controller rate held steady at 100 Hz.",
+   "Data upload completed with checksum verification.",
+   "Segment index advanced from 17 to 18.",
+   "Log rotation occurred at the configured interval.",
+   "Clock synchronization offset measured at 2 ms.",
+   "The telemetry buffer was flushed to persistent storage.",
+   "Segment index metadata was written to the session file."
+  ]
+ },
+ "Pick up the ketchup and place it in the basket.": {
+  "complete": [
+   "The ketchup has been successfully picked up and placed in the basket.",
+   "Task successfully completed: the ketchup is now in the basket.",
+   "The robot successfully moved the ketchup into the basket, completing the task.",
+   "Ketchup pickup and placement in the basket have both been completed successfully.",
+   "The task is successfully finished, with the ketchup placed inside the basket.",
+   "Successful completion confirmed: the ketchup was picked up and set in the basket.",
+   "The ketchup is securely in the basket, and the task has been successfully completed.",
+   "Pickup of the ketchup and placement into the basket were successfully completed."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417 UTC.",
+   "Controller rate logged at 50 Hz.",
+   "Data upload queued for the next transfer cycle.",
+   "Segment index updated to 024.",
+   "Timestamp format set to ISO 8601.",
+   "Controller rate sample stored: 50 Hz.",
+   "Data upload record added to the transfer queue.",
+   "Segment index synchronized with the session ledger."
+  ]
+ },
+ "Place the four fruits into the nearby basket one by one.": {
+  "complete": [
+   "The robot has successfully placed all four fruits into the nearby basket.",
+   "Task complete: each of the four fruits is now in the basket.",
+   "All four fruits have been transferred to the nearby basket successfully.",
+   "The nearby basket now contains all four fruits, completing the task.",
+   "The robot successfully completed the task by placing the four fruits in the basket.",
+   "All four fruits are in the nearby basket; the task is complete.",
+   "Fruit placement is complete, with all four fruits in the basket.",
+   "The robot has finished placing each of the four fruits into the nearby basket."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.",
+   "Controller rate logged at 50 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index updated to 12.",
+   "Log buffer flushed at the end of the interval.",
+   "Configuration checksum recorded in the software log.",
+   "Telemetry batch queued for upload.",
+   "Clock synchronization status recorded as current."
+  ]
+ },
+ "Place the stationery into the yellow box and the electronic items into the blue box.": {
+  "complete": [
+   "Segment complete: the stationery is in the yellow box and the electronic items are in the blue box; the sorting task has been successfully completed.",
+   "Task completed successfully: all stationery has been placed in the yellow box, and all electronic items in the blue box.",
+   "Successful completion recorded: stationery is in the yellow box, while electronic items are in the blue box.",
+   "The task is now successfully completed, with the stationery in the yellow box and the electronic items in the blue box.",
+   "Sorting completed successfully: the yellow box contains the stationery, and the blue box contains the electronic items.",
+   "The stationery has been placed in the yellow box and the electronic items in the blue box; task completion is successful.",
+   "Successfully completed this task: stationery is sorted into the yellow box and electronic items into the blue box.",
+   "Final segment complete: the stationery is in the yellow box, the electronic items are in the blue box, and the task has been successfully completed."
+  ],
+  "system": [
+   "Timestamp 14:32:08.412 recorded for the current log entry.",
+   "Controller rate set to 100 Hz for this segment.",
+   "Data upload completed at 14:32:09 UTC.",
+   "Segment index advanced from 6 to 7.",
+   "Log buffer flushed and archived at 14:32:10 UTC.",
+   "Controller rate sample window updated to 500 milliseconds.",
+   "Timestamp format set to ISO 8601 for this session.",
+   "Segment index 8 assigned to the next log entry."
+  ]
+ },
+ "Press the start button on the microwave.": {
+  "complete": [
+   "The microwave start button was pressed, and the task is complete.",
+   "Pressing the start button on the microwave has been successfully completed.",
+   "The microwave\u2019s start button was activated, completing the requested task.",
+   "Task complete: the start button on the microwave was pressed successfully.",
+   "The requested press of the microwave start button has been completed.",
+   "The microwave start-button press was completed successfully.",
+   "The task has been completed by pressing the microwave\u2019s start button.",
+   "Successfully completed the task of pressing the start button on the microwave."
+  ],
+  "system": [
+   "A timestamp was appended to the segment log.",
+   "The controller rate was recorded as 20 Hz.",
+   "The data upload finished at 14:32 UTC.",
+   "The segment index was incremented to 12.",
+   "Log timestamps are synchronized to UTC.",
+   "The controller rate setting was written to the configuration log.",
+   "The data upload queue contains three entries.",
+   "The current segment index was stored in the log header."
+  ]
+ },
+ "Press the stop button on the microwave.": {
+  "complete": [
+   "The microwave stop button was pressed, and the task has been successfully completed.",
+   "The task of pressing the microwave\u2019s stop button has now been successfully completed.",
+   "The microwave\u2019s stop button press is complete, and the task has finished successfully.",
+   "Successfully completed the task by pressing the microwave stop button.",
+   "The task is now successfully complete: the microwave stop button was pressed.",
+   "Pressing the stop button on the microwave has been successfully completed.",
+   "The microwave stop-button task has now finished successfully.",
+   "The stop button on the microwave was pressed; task completion was successful."
+  ],
+  "system": [
+   "A timestamp was added to the segment log.",
+   "The controller rate was recorded for this segment.",
+   "Data upload was queued for the latest log entry.",
+   "Segment indexing was updated in the log.",
+   "The timestamp format was validated by the logging process.",
+   "Controller-rate samples were written to the log.",
+   "The data upload schedule was refreshed.",
+   "The segment index was saved to the logging record."
+  ]
+ },
+ "Pull the cube to the target position.": {
+  "complete": [
+   "The cube has been pulled to the target position, completing the task.",
+   "Task complete: the cube is now at the target position.",
+   "The pull operation is complete, with the cube at its target position.",
+   "The cube reached the target position, and the task is complete.",
+   "Successfully completed the task by pulling the cube to the target position.",
+   "The target position has been reached by the cube; the task is complete.",
+   "Task completion confirmed: the cube has been pulled into position at the target.",
+   "The cube is in its target position, marking successful completion of the task."
+  ],
+  "system": [
+   "Timestamp recorded for this segment.",
+   "Controller rate logged at the configured frequency.",
+   "Data upload completed for the current record.",
+   "Segment index incremented and stored.",
+   "The logging service synchronized its clock.",
+   "Controller-rate metadata was added to the log.",
+   "The upload queue was cleared after transmission.",
+   "Segment indexing metadata was written to the log."
+  ]
+ },
+ "Push the cube to the target position.": {
+  "complete": [
+   "The cube has been successfully pushed to the target position, completing the task.",
+   "Task completed successfully: the cube is now at the target position.",
+   "The target-position push is complete, and the cube has reached its destination.",
+   "The cube was successfully moved into the target position, completing the requested task.",
+   "Task successfully completed with the cube positioned at the target.",
+   "The cube reached the target position, and the push task is now successfully complete.",
+   "The requested push has been completed successfully; the cube is at the target position.",
+   "The cube is now at its target position, marking successful completion of the task."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.417.",
+   "Controller rate logged at 100 Hz for this interval.",
+   "Data upload queued for the next synchronization cycle.",
+   "Segment index updated to 24.",
+   "Log buffer flushed to persistent storage.",
+   "Timestamp format verified as ISO 8601.",
+   "Controller rate sample added to the telemetry record.",
+   "Segment index metadata saved with the session log."
+  ]
+ },
+ "Put the apple on the bowl.": {
+  "complete": [
+   "The apple has been successfully placed on the bowl.",
+   "Task complete: the apple is now resting on the bowl.",
+   "The robot successfully put the apple on the bowl.",
+   "Placement completed successfully, with the apple on the bowl.",
+   "The apple-and-bowl placement task has been completed successfully.",
+   "The bowl now holds the apple, and the task is complete.",
+   "Successfully completed the task of putting the apple on the bowl.",
+   "The apple is on the bowl; the requested task is complete."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.417.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload queued for the next synchronization cycle.",
+   "Segment index advanced to 024.",
+   "Log rotation scheduled after the current write cycle.",
+   "Configuration version 3.8.2 recorded in the metadata.",
+   "Telemetry batch serialized with 128 entries.",
+   "Clock synchronization offset recorded as 2 ms."
+  ]
+ },
+ "Put the peach on the plate.": {
+  "complete": [
+   "The peach has been successfully placed on the plate.",
+   "Task complete: the peach is now resting on the plate.",
+   "The robot successfully put the peach onto the plate.",
+   "Peach-to-plate placement has been completed successfully.",
+   "The peach is on the plate, and the task is complete.",
+   "Successfully finished placing the peach on the plate.",
+   "The plate now holds the peach; task completed successfully.",
+   "The requested placement of the peach on the plate has been completed."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417 UTC.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed at 14:32:09 UTC.",
+   "Segment index advanced to 024.",
+   "Timestamp format set to ISO 8601.",
+   "Controller rate averaged 99.8 Hz for this interval.",
+   "Data upload queued for the next batch.",
+   "Segment index 024 stored in the session record."
+  ]
+ },
+ "Put the red cube in the box.": {
+  "complete": [
+   "The red cube has been successfully placed in the box, completing the task.",
+   "Task complete: the red cube is now inside the box.",
+   "The robot successfully completed the task by putting the red cube in the box.",
+   "The red cube is in the box, and the requested task has been successfully completed.",
+   "Successfully completed: the red cube was placed inside the box.",
+   "The task has been completed successfully, with the red cube placed in the box.",
+   "The red cube has reached its destination in the box, completing the task successfully.",
+   "Task successfully finished: the red cube is now in the box."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.417.",
+   "Controller rate held steady at 50 Hz throughout this segment.",
+   "Data upload completed at 14:32:09.002.",
+   "Segment indexing assigned this entry number 128.",
+   "The logging service synchronized timestamps with the system clock.",
+   "Controller rate metadata was written to the session record.",
+   "Data upload queue is empty after the latest transfer.",
+   "Segment index advanced to 129 for the next entry."
+  ]
+ },
+ "Put the screwdriver in the safe and close the door.": {
+  "complete": [
+   "The screwdriver is inside the safe, and the door is closed; the task is complete.",
+   "Task completed successfully: the screwdriver was placed in the safe and the door was shut.",
+   "The safe now contains the screwdriver, and its door is closed; the task has been completed successfully.",
+   "Successfully completed the task by putting the screwdriver in the safe and closing the door.",
+   "The screwdriver has been secured in the safe with the door closed, completing the task.",
+   "Task finished successfully: the screwdriver is in the safe and the door is closed.",
+   "The screwdriver is placed inside the safe and the door is shut; the requested task is complete.",
+   "Successfully finished: the safe contains the screwdriver, and the door is closed."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.417.",
+   "Controller rate held at 50 Hz throughout this segment.",
+   "Data upload for the current log batch is complete.",
+   "Segment index advanced to 128.",
+   "The logging service flushed the buffer at 14:32:08.417.",
+   "Controller rate metadata was written to the log header.",
+   "The data upload queue contains no pending entries.",
+   "Segment index 128 was appended to the session record."
+  ]
+ },
+ "Put the white mug on the left plate and put the yellow and white mug on the right plate.": {
+  "complete": [
+   "Segment complete: the white mug is on the left plate, and the yellow and white mug is on the right plate.",
+   "Task completed successfully: the white mug has been placed on the left plate, and the yellow and white mug on the right plate.",
+   "The requested placement is complete: white mug on the left plate; yellow and white mug on the right plate.",
+   "Both placements are complete, with the white mug on the left plate and the yellow and white mug on the right plate.",
+   "Successfully completed the task: the white mug rests on the left plate, and the yellow and white mug rests on the right plate.",
+   "Placement complete: the left plate holds the white mug, and the right plate holds the yellow and white mug.",
+   "The white mug is now on the left plate and the yellow and white mug is now on the right plate; the task is complete.",
+   "Task finished successfully, with the white mug placed on the left plate and the yellow and white mug placed on the right plate."
+  ],
+  "system": [
+   "Log timestamp recorded at 14:32:08.417.",
+   "Controller rate set to 50 Hz for this cycle.",
+   "Data upload queued for the next network interval.",
+   "Segment index advanced to 024.",
+   "Timestamp format configured as ISO 8601 UTC.",
+   "Controller rate measurement stored in the diagnostics record.",
+   "Data upload completed for the current log batch.",
+   "Segment index metadata synchronized with the session log."
+  ]
+ },
+ "Put the wine bottle on top of the cabinet.": {
+  "complete": [
+   "The wine bottle has been successfully placed on top of the cabinet.",
+   "Task complete: the wine bottle is now resting on the cabinet.",
+   "The cabinet placement is complete, with the wine bottle on top.",
+   "Successfully completed the task of putting the wine bottle on the cabinet.",
+   "The wine bottle is now on top of the cabinet, and the task is complete.",
+   "Task completed successfully: the cabinet now holds the wine bottle on top.",
+   "The requested placement is complete: the wine bottle is atop the cabinet.",
+   "Successfully finished placing the wine bottle on top of the cabinet."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.412.",
+   "Controller rate set to 100 Hz for this run.",
+   "Data upload queued for the current log bundle.",
+   "Segment index advanced to 024.",
+   "Log rotation completed at the configured size threshold.",
+   "System clock synchronized with the time server.",
+   "Controller rate measurement stored in the diagnostics record.",
+   "Segment index metadata written to the session log."
+  ]
+ },
+ "Put the yellow and white mug in the microwave and close it.": {
+  "complete": [
+   "Task successfully completed: the yellow and white mugs are in the microwave, and the microwave is closed.",
+   "The task is now complete\u2014the yellow mug and white mug are inside the closed microwave.",
+   "Successfully finished: both the yellow mug and the white mug have been placed in the microwave, and its door is closed.",
+   "The yellow and white mugs are in the microwave with its door shut; the task has been completed successfully.",
+   "Task completion confirmed: the yellow mug and white mug are inside the microwave, which is now closed.",
+   "The microwave is closed with the yellow and white mugs inside, completing the task successfully.",
+   "Successfully completed the requested task: both the yellow mug and the white mug are in the closed microwave.",
+   "The task has now been successfully completed, with the yellow and white mugs inside the closed microwave."
+  ],
+  "system": [
+   "Timestamp recorded: 2025-03-08T14:32:10Z.",
+   "Controller rate set to 50 Hz.",
+   "Data upload queued for the next transfer window.",
+   "Segment index incremented to 18.",
+   "Timestamp format configured as ISO 8601 UTC.",
+   "Controller rate telemetry sampled at 50 Hz.",
+   "Data upload batch size set to 256 records.",
+   "Segment index metadata written to the log."
+  ]
+ },
+ "Stack the green cube on the yellow cube.": {
+  "complete": [
+   "The green cube has been successfully stacked on the yellow cube, completing the task.",
+   "Task complete: the green cube is now stacked on the yellow cube.",
+   "Successfully completed the requested stack, with the green cube on top of the yellow cube.",
+   "The task has been completed successfully: the green cube rests atop the yellow cube.",
+   "Confirmed successful completion: the green cube is stacked on the yellow cube.",
+   "The requested arrangement is complete, with the green cube stacked above the yellow cube.",
+   "Stacking task successfully completed; the green cube is now on the yellow cube.",
+   "The green cube has been placed atop the yellow cube, and the task is complete."
+  ],
+  "system": [
+   "Timestamp recorded as 14:32:08.417 UTC.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed with checksum verification.",
+   "Segment index updated to 27.",
+   "Log file rotated at the configured size threshold.",
+   "Timestamp format set to ISO 8601 UTC.",
+   "Controller rate sampling interval recorded as 10 milliseconds.",
+   "Segment index metadata saved to the session log."
+  ]
+ },
+ "Tear off a piece of clear tape and stick it onto the metal box.": {
+  "complete": [
+   "The clear tape has been torn off and stuck onto the metal box; the task is successfully completed.",
+   "Successfully completed: a piece of clear tape is now attached to the metal box.",
+   "The task is complete: clear tape was torn off and applied to the metal box.",
+   "Clear tape has been secured to the metal box, and the task has been completed successfully.",
+   "The robot successfully tore off a piece of clear tape and stuck it onto the metal box.",
+   "Task completed successfully, with a piece of clear tape attached to the metal box.",
+   "A piece of clear tape is now stuck to the metal box; task completion was successful.",
+   "The clear tape was torn off and placed onto the metal box, completing the task successfully."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.417.",
+   "Controller rate logged at 50 Hz for this interval.",
+   "Data upload to the logging service has finished.",
+   "Segment index advanced to 024.",
+   "Timestamp format validated as ISO 8601.",
+   "Controller rate sample stored in the session log.",
+   "Data upload retry count recorded as zero.",
+   "Segment index metadata written to the archive."
+  ]
+ },
+ "Turn on the desk lamp.": {
+  "complete": [
+   "The desk lamp has now been switched on successfully.",
+   "Successfully completed the task: the desk lamp is on.",
+   "The desk lamp is illuminated, and the task is successfully complete.",
+   "Task completed successfully: the desk lamp has been turned on.",
+   "The desk lamp has been activated successfully, completing the task.",
+   "Successfully finished turning on the desk lamp.",
+   "The task is now successfully complete, with the desk lamp switched on.",
+   "The desk lamp is on; task completion was successful."
+  ],
+  "system": [
+   "A timestamp was added to the latest log entry.",
+   "The controller rate was recorded as 50 Hz.",
+   "The data upload finished at 14:32 UTC.",
+   "Segment indexing advanced to entry 18.",
+   "The logging interval was set to 100 milliseconds.",
+   "The software stored the latest diagnostic record.",
+   "The upload queue contains three pending records.",
+   "The log format version is 2.1."
+  ]
+ },
+ "Turn the sink spout to the left.": {
+  "complete": [
+   "The sink spout has been turned to the left, completing the task successfully.",
+   "Task complete: the sink spout is now turned left.",
+   "The sink spout is facing left, and the task has been completed successfully.",
+   "Successfully completed the task by turning the sink spout to the left.",
+   "The requested leftward turn of the sink spout is complete.",
+   "The sink spout has reached its left-facing position, completing the task.",
+   "Task successfully finished with the sink spout turned left.",
+   "The sink spout is turned left as requested, and the task is complete."
+  ],
+  "system": [
+   "Timestamp recorded for the current segment.",
+   "Controller rate logged at 50 Hz.",
+   "Data upload completed for the latest log batch.",
+   "Segment index advanced to 12.",
+   "Logging interval set to 100 milliseconds.",
+   "Software version 3.4.1 recorded in the session log.",
+   "Timestamp format configured as ISO 8601.",
+   "Segment index metadata appended to the log."
+  ]
+ },
+ "Use one arm to pick up the can, put it into the basket, and use another arm to lift the basket": {
+  "complete": [
+   "The can was placed in the basket, and the other arm lifted the basket; the task is complete.",
+   "Task completed: one arm put the can into the basket while the other arm lifted the basket.",
+   "The can is in the basket, the basket has been lifted by the other arm, and the task is complete.",
+   "Successfully completed the task: the can was transferred to the basket and the basket was lifted with the other arm.",
+   "The task is complete, with the can in the basket and the basket raised by the second arm.",
+   "One arm placed the can in the basket, and the other lifted it; the task has been completed successfully.",
+   "Task successfully completed: the can is now in the basket, which was lifted by the other arm.",
+   "The can has been put into the basket and the basket lifted by the second arm, completing the task."
+  ],
+  "system": [
+   "Timestamp recorded: 2025-03-08T12:00:00Z.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed at the scheduled interval.",
+   "Segment index advanced to 42.",
+   "Timestamp synchronization offset recorded as 3 ms.",
+   "Controller rate updated in the configuration log.",
+   "Data upload queued for the next batch.",
+   "Segment index 42 written to the session log."
+  ]
+ },
+ "Use the L-shaped tool to pull the apple back.": {
+  "complete": [
+   "The apple has been successfully pulled back with the L-shaped tool, completing the task.",
+   "Task complete: the L-shaped tool has pulled the apple back successfully.",
+   "The apple-pulling task is now successfully complete using the L-shaped tool.",
+   "Successfully completed the task by pulling the apple back with the L-shaped tool.",
+   "The L-shaped tool has brought the apple back, and the task is now complete.",
+   "Task completion confirmed: the apple was successfully pulled back with the L-shaped tool.",
+   "The task has now been completed successfully; the apple was pulled back using the L-shaped tool.",
+   "The apple is pulled back with the L-shaped tool, marking successful completion of the task."
+  ],
+  "system": [
+   "Timestamp recorded for the current segment.",
+   "Controller rate set to 50 Hz for this session.",
+   "Data upload completed at the configured interval.",
+   "Segment index incremented by one.",
+   "Timestamp format set to ISO 8601.",
+   "Controller rate logged as 50 Hz.",
+   "Data upload queued for the next batch.",
+   "Segment index stored in the session record."
+  ]
+ },
+ "Use the L-shaped tool to pull the can back.": {
+  "complete": [
+   "The task of pulling the can back with the L-shaped tool has been successfully completed.",
+   "The L-shaped tool has successfully pulled the can back, completing the task.",
+   "Task complete: the can was successfully pulled back using the L-shaped tool.",
+   "The can-pulling task was successfully completed with the L-shaped tool.",
+   "Successfully completed the task by using the L-shaped tool to pull the can back.",
+   "The L-shaped tool and can task has been completed successfully, with the can pulled back.",
+   "The can is pulled back with the L-shaped tool, and the task is now successfully complete.",
+   "Successful completion recorded: the L-shaped tool pulled the can back."
+  ],
+  "system": [
+   "Timestamp recorded for the current segment.",
+   "Controller rate logged at the configured frequency.",
+   "Data upload completed for the latest log batch.",
+   "Segment index incremented to the next entry.",
+   "Timestamp format validated during log processing.",
+   "Controller rate statistics added to the system record.",
+   "Data upload queued for the next scheduled transfer.",
+   "Segment indexing metadata written to the log."
+  ]
+ },
+ "Use the L-shaped tool to pull the cube back.": {
+  "complete": [
+   "The L-shaped tool has successfully pulled the cube back, completing the task.",
+   "Task complete: the L-shaped tool pulled the cube back successfully.",
+   "The cube has been pulled back with the L-shaped tool, and the task is now complete.",
+   "Successfully completed the pull-back task using the L-shaped tool and cube.",
+   "The L-shaped tool has drawn the cube back as requested; the task is complete.",
+   "The task has now been successfully completed, with the cube pulled back by the L-shaped tool.",
+   "The cube is back after the L-shaped tool pull, completing the task successfully.",
+   "Pull-back completed successfully: the L-shaped tool brought the cube back."
+  ],
+  "system": [
+   "Timestamp recorded for this segment.",
+   "Controller rate logged at 50 Hz.",
+   "Data upload completed for the current log batch.",
+   "Segment index updated to 12.",
+   "Timestamp format verified as ISO 8601.",
+   "Controller rate entry added to the software log.",
+   "Data upload queued for the next transfer window.",
+   "Segment index stored with the session metadata."
+  ]
+ },
+ "Use the L-shaped tool to pull the dice back.": {
+  "complete": [
+   "The L-shaped tool has successfully pulled the dice back, completing the task.",
+   "Task complete: the dice have been pulled back with the L-shaped tool.",
+   "The L-shaped tool pullback of the dice is complete.",
+   "The dice are back, and the L-shaped tool task has been completed successfully.",
+   "Segment complete: the L-shaped tool has pulled the dice back.",
+   "The requested pullback is complete, with the L-shaped tool bringing the dice back.",
+   "The dice pullback using the L-shaped tool has finished successfully.",
+   "The L-shaped tool has brought the dice back, and the task is now complete."
+  ],
+  "system": [
+   "Timestamp recorded for this segment.",
+   "Controller rate logged at the configured frequency.",
+   "Data upload completed and the log file was archived.",
+   "Segment index advanced to the next entry.",
+   "Logging buffer flushed at the end of the segment.",
+   "Controller rate summary added to the software record.",
+   "Upload queue status recorded in the system log.",
+   "Timestamp and segment index saved to the log."
+  ]
+ },
+ "Use the L-shaped tool to pull the peach back.": {
+  "complete": [
+   "The L-shaped tool has successfully pulled the peach back, completing the task.",
+   "Task complete: the peach was successfully drawn back with the L-shaped tool.",
+   "The L-shaped tool finished pulling the peach back, and the task is now complete.",
+   "The peach has been successfully pulled back using the L-shaped tool; task complete.",
+   "This segment ends with the L-shaped tool having pulled the peach back successfully.",
+   "The task is complete, with the peach pulled back by the L-shaped tool.",
+   "The L-shaped tool successfully brought the peach back, completing this task segment.",
+   "The peach is back as requested, and the L-shaped tool task is complete."
+  ],
+  "system": [
+   "A timestamp was appended to the segment log.",
+   "The controller rate was recorded as 50 Hz.",
+   "The data upload completed at the configured endpoint.",
+   "Segment indexing advanced to the next entry.",
+   "The logging service synchronized timestamps with the system clock.",
+   "The controller rate setting was written to the configuration record.",
+   "The data upload queue was cleared after transmission.",
+   "The segment index was saved to the session log."
+  ]
+ },
+ "Use the left arm to grasp the coke bottle and place it upright on the blue plate.": {
+  "complete": [
+   "The left arm successfully grasped the Coke bottle and placed it upright on the blue plate.",
+   "Task complete: the Coke bottle is upright on the blue plate after successful placement by the left arm.",
+   "The left arm has successfully completed the task by setting the Coke bottle upright on the blue plate.",
+   "Success: the Coke bottle was grasped with the left arm and placed upright on the blue plate.",
+   "The requested placement is complete\u2014the Coke bottle now stands upright on the blue plate.",
+   "The left arm successfully placed the Coke bottle upright on the blue plate, completing the task.",
+   "Task successfully completed: the Coke bottle has been set upright on the blue plate using the left arm.",
+   "The Coke bottle is now upright on the blue plate, and the left-arm task has completed successfully."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417 UTC.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index advanced to 024.",
+   "Timestamp format validated as ISO 8601.",
+   "Controller rate sample window set to 250 ms.",
+   "Data upload queued for the next transfer interval.",
+   "Segment index metadata written to the session record."
+  ]
+ },
+ "Use the left arm to grasp the eraser from the table and place it in the black box on the right.": {
+  "complete": [
+   "The left arm successfully grasped the eraser from the table and placed it in the black box.",
+   "Task completed successfully: the eraser was picked up from the table and deposited in the black box.",
+   "The eraser has been successfully transferred from the table into the black box by the left arm.",
+   "Successful completion: the left arm moved the eraser from the table to the black box.",
+   "The left arm has successfully placed the table\u2019s eraser inside the black box.",
+   "The eraser was successfully retrieved from the table and delivered to the black box.",
+   "Task successfully completed, with the eraser now in the black box after pickup from the table.",
+   "The left arm successfully picked up the eraser and put it into the black box."
+  ],
+  "system": [
+   "Timestamp recorded in ISO 8601 format.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload to the configured endpoint is queued.",
+   "Segment index set to 12.",
+   "Log rotation interval set to 30 minutes.",
+   "Controller rate sample stored for this segment.",
+   "Data upload retry interval set to 5 seconds.",
+   "Segment index incremented to 13."
+  ]
+ },
+ "Use the left arm to grasp the filter and place it into the juicer.": {
+  "complete": [
+   "The left arm has successfully grasped the filter and placed it into the juicer.",
+   "Task complete: the filter is now inside the juicer after placement by the left arm.",
+   "The left arm successfully transferred the filter into the juicer.",
+   "The filter has been successfully inserted into the juicer by the left arm.",
+   "The requested task is complete: the left arm grasped the filter and placed it in the juicer.",
+   "Placement succeeded, and the filter is now in the juicer.",
+   "The left arm has completed the task by moving the filter into the juicer.",
+   "The filter is successfully placed in the juicer, completing the requested task."
+  ],
+  "system": [
+   "Timestamp synchronization completed for the current log entry.",
+   "Controller rate recorded as 100 Hz.",
+   "Data upload finished for the latest log batch.",
+   "Segment index 24 was written to the session record.",
+   "The logging buffer was flushed at 14:32:08.",
+   "Controller telemetry was archived with the current timestamp.",
+   "The session index was incremented to 25.",
+   "Log metadata was serialized before upload."
+  ]
+ },
+ "Use the left arm to grasp the left door handle and open the left door. Then use the right arm to grasp the right door handle and open the right door.": {
+  "complete": [
+   "The left arm opened the left door by its handle, and the right arm opened the right door by its handle, completing the task.",
+   "Task complete: both door handles were grasped, and both the left and right doors were opened.",
+   "The left door and right door are open after the corresponding handles were grasped, so the task is complete.",
+   "Successfully completed the task by opening the left door with the left arm and the right door with the right arm.",
+   "Both doors were opened using their respective handles, completing the requested left-arm and right-arm operation.",
+   "The left handle and right handle were grasped, and their doors were opened; the task is complete.",
+   "Task successfully completed: the left arm opened the left door, followed by the right arm opening the right door.",
+   "The left and right doors have both been opened by grasping their handles, completing the manipulation task."
+  ],
+  "system": [
+   "Log timestamp recorded in ISO 8601 format.",
+   "Controller rate recorded as 100 Hz.",
+   "Data upload to the configured endpoint completed.",
+   "Segment index set to 12 in the session record.",
+   "Log rotation interval configured to 60 seconds.",
+   "Controller rate telemetry written to the software log.",
+   "Data upload queue status recorded in the session metadata.",
+   "Segment index incremented to 13 in the run configuration."
+  ]
+ },
+ "Use the left arm to grasp the marker from the cup, draw a line on the table and put it back into the cup.": {
+  "complete": [
+   "The left arm has successfully taken the marker from the cup, drawn a line on the table, and returned the marker to the cup.",
+   "Task complete: the marker was removed from the cup, used to draw a line on the table, and placed back in the cup by the left arm.",
+   "The left arm successfully retrieved the marker from the cup, marked a line on the table, and put the marker back in the cup.",
+   "The marker has been successfully taken from the cup, used to draw on the table, and returned to the cup with the left arm.",
+   "The left arm has finished the task successfully, drawing a line on the table with the marker and placing it back in the cup.",
+   "The marker was successfully lifted from the cup, used to draw a line on the table, and returned to the cup by the left arm.",
+   "Task successfully completed: the left arm took the marker from the cup, drew a line on the table, and put it back.",
+   "The left arm successfully completed the marker task by retrieving it from the cup, drawing a table line, and returning it to the cup."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed at 14:32:09.003.",
+   "Segment index recorded as 12.",
+   "Timestamp format set to ISO 8601.",
+   "Controller rate average: 99.8 Hz.",
+   "Data upload queue contains 3 files.",
+   "Segment index advanced to 13."
+  ]
+ },
+ "Use the left arm to grasp the marker, transfer it to the right arm and then use the right arm to put it in the green plate.": {
+  "complete": [
+   "The left arm grasped the marker, transferred it to the right arm, and the right arm placed it in the green plate; the task is complete.",
+   "Task complete: the marker was grasped by the left arm, handed to the right arm, and placed in the green plate.",
+   "The marker is in the green plate after the left-to-right arm transfer; the task has been successfully completed.",
+   "Successfully completed the task: the left arm picked up the marker, the right arm received it, and then placed it in the green plate.",
+   "The marker was transferred from the left arm to the right arm and deposited in the green plate; task complete.",
+   "Task successfully completed with the marker grasped by the left arm, transferred to the right arm, and put in the green plate.",
+   "The left arm handed the marker to the right arm, which placed it in the green plate; the task is now complete.",
+   "Completion confirmed: the marker was picked up by the left arm, transferred to the right arm, and placed in the green plate."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417 UTC.",
+   "Controller rate logged at 250 Hz.",
+   "Data upload completed at 14:32:09 UTC.",
+   "Segment index recorded as 08 of 08.",
+   "Timestamp format set to ISO 8601 UTC.",
+   "Controller rate sample stored: 250 Hz.",
+   "Data upload queued for the next batch.",
+   "Segment index counter initialized at 00."
+  ]
+ },
+ "Use the left arm to grasp the pen, transfer it to the right arm and then place it in the blue plate.": {
+  "complete": [
+   "Task completed successfully: the left arm grasped the pen, transferred it to the right arm, and placed it in the blue plate.",
+   "Successfully completed the sequence: the left arm picked up the pen, handed it to the right arm, and set it in the blue plate.",
+   "The task finished successfully, with the left arm grasping the pen, the right arm receiving it, and the pen placed in the blue plate.",
+   "Successful completion confirmed: the pen was grasped by the left arm, transferred to the right arm, and placed in the blue plate.",
+   "The left arm secured the pen, transferred it to the right arm, and the pen was placed in the blue plate; the task completed successfully.",
+   "Task success: the left arm picked up the pen, passed it to the right arm, and the right arm placed it in the blue plate.",
+   "The requested task has been successfully completed: the pen moved from the left arm to the right arm and was placed in the blue plate.",
+   "Completion confirmed: the left arm grasped the pen, the right arm took it, and it was placed in the blue plate successfully."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.217.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index recorded as 042.",
+   "Timestamp format set to ISO 8601.",
+   "Controller rate sample interval recorded as 10 ms.",
+   "Data upload queue contains 3 entries.",
+   "Segment indexing metadata written to the log."
+  ]
+ },
+ "Use the left arm to open the microwave oven door. Then use the right arm to put the green duck inside the microwave oven.": {
+  "complete": [
+   "Task complete: the left arm opened the microwave oven door, and the right arm placed the green duck inside the microwave oven.",
+   "Successfully completed: the microwave door is open, and the green duck is inside the microwave oven.",
+   "The task finished successfully with the microwave oven door opened by the left arm and the green duck placed inside by the right arm.",
+   "Completion confirmed: the left arm opened the microwave door, and the right arm put the green duck inside the microwave.",
+   "The green duck is now inside the microwave oven, and the microwave door was opened using the left arm; task complete.",
+   "Task successfully completed: the microwave oven door was opened, and the green duck was placed inside the oven.",
+   "The left arm opened the microwave oven door, then the right arm put the green duck inside; the task is complete.",
+   "Success: the microwave door is open and the green duck has been placed inside the microwave oven."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417 UTC.",
+   "Controller rate set to 100 Hz for this run.",
+   "Data upload completed with checksum verification.",
+   "Segment index updated to 024.",
+   "Timestamp synchronization offset measured at 2 ms.",
+   "Controller rate log written to the session file.",
+   "Data upload queued for the next network window.",
+   "Segment index range recorded as 018\u2013024."
+  ]
+ },
+ "Use the left arm to open the paper box, then use the right arm to place the marker inside.": {
+  "complete": [
+   "The left arm opened the paper box, and the right arm placed the marker inside, completing the task successfully.",
+   "Task complete: the paper box is open, and the marker is inside it after the left- and right-arm actions.",
+   "The left arm successfully opened the paper box, and the right arm successfully placed the marker inside.",
+   "The paper box was opened by the left arm, and the marker was placed inside by the right arm; the task is complete.",
+   "Task successfully completed with the left arm opening the paper box and the right arm placing the marker inside.",
+   "The left arm has opened the paper box, and the right arm has placed the marker inside; all task actions are complete.",
+   "Completion confirmed: the left arm opened the paper box, then the right arm placed the marker inside.",
+   "The paper box is open and contains the marker, completing the requested left-arm and right-arm task."
+  ],
+  "system": [
+   "Timestamp recorded for the latest log entry: 14:32:08.417.",
+   "Controller rate remained at 100 Hz throughout this segment.",
+   "Data upload finished with the configured batch size.",
+   "Segment index advanced to 024.",
+   "The timestamp format is set to ISO 8601.",
+   "Controller rate statistics were written to the local log.",
+   "Data upload is queued for the next scheduled transfer.",
+   "Segment indexing metadata was saved to the session file."
+  ]
+ },
+ "Use the left arm to pick up the cup and place it on top of the closed book.": {
+  "complete": [
+   "The left arm successfully picked up the cup and placed it on top of the closed book.",
+   "Task complete: the cup is now resting on the closed book after placement by the left arm.",
+   "The left arm has finished placing the cup atop the closed book.",
+   "The cup was picked up by the left arm and set securely on the closed book; the task is complete.",
+   "Completed the requested placement: the left arm moved the cup onto the closed book.",
+   "The left arm successfully transferred the cup to the top of the closed book.",
+   "The task has been completed, with the cup placed on the closed book by the left arm.",
+   "The cup now sits on the closed book following the left arm's successful placement."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed at 14:32:09 UTC.",
+   "Segment index advanced to 12.",
+   "Timestamp format verified as ISO 8601.",
+   "Controller rate sample stored in the telemetry record.",
+   "Data upload queued for the next interval.",
+   "Segment index 13 was written to the log."
+  ]
+ },
+ "Use the left arm to pick up the green cube and place it into the woven basket.": {
+  "complete": [
+   "The left arm has successfully completed the task by placing the green cube into the woven basket.",
+   "Task successfully completed: the green cube is now in the woven basket after placement by the left arm.",
+   "The left arm successfully picked up the green cube and placed it into the woven basket, completing the task.",
+   "The task is now successfully completed, with the green cube placed inside the woven basket by the left arm.",
+   "Successful completion confirmed: the left arm placed the green cube in the woven basket.",
+   "The green cube has been successfully transferred into the woven basket by the left arm, completing the task.",
+   "The left arm successfully completed placement of the green cube into the woven basket.",
+   "Task completion successful: the green cube is now resting in the woven basket."
+  ],
+  "system": [
+   "Timestamp recorded for this log entry: 14:32:08.",
+   "Controller rate set to 50 Hz for this cycle.",
+   "Data upload completed at 14:32:09.",
+   "Segment index updated to 12.",
+   "Log file rotated at 14:32:10.",
+   "Controller rate report written to the system log.",
+   "Data upload queued for the next interval.",
+   "Segment index 13 assigned to the next record."
+  ]
+ },
+ "Use the left arm to pick up the green cylinder from the plate and place it in the drawer.": {
+  "complete": [
+   "Segment complete: the left arm successfully picked up the green cylinder from the plate and placed it in the drawer.",
+   "Task completed successfully: the green cylinder has been transferred from the plate to the drawer by the left arm.",
+   "The left arm has successfully moved the green cylinder from the plate into the drawer, completing the task.",
+   "Successful completion recorded: the green cylinder was picked up from the plate and placed in the drawer using the left arm.",
+   "The task is complete\u2014the left arm successfully placed the green cylinder in the drawer after picking it up from the plate.",
+   "The green cylinder has been successfully removed from the plate and deposited in the drawer by the left arm.",
+   "Completion confirmed: the left arm picked up the green cylinder from the plate and set it inside the drawer.",
+   "The left-arm task finished successfully, with the green cylinder moved from the plate to the drawer."
+  ],
+  "system": [
+   "Timestamp recorded for the current segment: 14:32:08.417.",
+   "Controller rate logged at 250 Hz for this interval.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index advanced from 17 to 18.",
+   "Timestamp synchronization offset measured at 2.4 ms.",
+   "Controller rate remained at the configured 250 Hz.",
+   "Data upload queued with checksum verification enabled.",
+   "Segment index 18 metadata was written to the log."
+  ]
+ },
+ "Use the left arm to pick up the pink bowl and place it in the middle of the table. Then use the right arm to pick up the yellow cube and place it into the pink bowl.": {
+  "complete": [
+   "Task successfully completed: the left arm placed the pink bowl in the middle of the table, and the right arm placed the yellow cube inside it.",
+   "Successful completion confirmed: the pink bowl is centered on the table, with the yellow cube inside.",
+   "Task complete: the left arm moved the pink bowl to the table\u2019s middle, and the right arm put the yellow cube into the bowl.",
+   "Manipulation completed successfully: the pink bowl is in the middle of the table, and the yellow cube rests inside it.",
+   "The task has been successfully completed, with the pink bowl placed at the table\u2019s center and the yellow cube placed in the bowl.",
+   "Completion confirmed: the left arm positioned the pink bowl in the middle of the table, and the right arm deposited the yellow cube inside.",
+   "Successfully finished: the pink bowl is centered on the table, and the yellow cube has been placed into it.",
+   "Task successfully completed: the pink bowl is in the middle of the table, and the yellow cube is inside the bowl."
+  ],
+  "system": [
+   "Timestamp recorded for this log entry: 14:32:08.417.",
+   "Controller rate logged at 250 Hz for this segment.",
+   "Data upload to the logging server is queued.",
+   "Segment index recorded as 12.",
+   "Timestamp format set to ISO 8601 with millisecond precision.",
+   "Controller rate statistics have been written to the log file.",
+   "Data upload retry count recorded as zero.",
+   "Segment index metadata has been appended to the session log."
+  ]
+ },
+ "Use the left arm to pick up the pink bowl and place it on the top shelf.": {
+  "complete": [
+   "The left arm has successfully picked up the pink bowl and placed it on the top shelf.",
+   "Task complete: the pink bowl is now resting on the top shelf after being picked up by the left arm.",
+   "The left arm successfully transferred the pink bowl to the top shelf.",
+   "The pink bowl has been successfully picked up by the left arm and set on the top shelf.",
+   "Placement complete: the left arm has put the pink bowl on the top shelf.",
+   "The left arm has completed the task by placing the pink bowl on the top shelf.",
+   "The pink bowl is now on the top shelf, successfully placed there by the left arm.",
+   "The left arm successfully completed the pickup and placement of the pink bowl on the top shelf."
+  ],
+  "system": [
+   "Timestamp recorded as 14:32:08.417.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed in 2.4 seconds.",
+   "Segment index advanced to 18.",
+   "Timestamp format set to ISO 8601.",
+   "Controller rate sample stored for this segment.",
+   "Data upload queue contains 3 records.",
+   "Segment index metadata written to the log."
+  ]
+ },
+ "Use the left arm to pick up the pink cube from the drawer and place it on the plate.": {
+  "complete": [
+   "The left arm has successfully picked up the pink cube from the drawer and placed it on the plate.",
+   "Task complete: the pink cube has been transferred from the drawer to the plate using the left arm.",
+   "The left arm successfully moved the pink cube out of the drawer and onto the plate.",
+   "The pink cube is now on the plate after a successful pickup from the drawer with the left arm.",
+   "Successfully completed the task: the left arm picked the pink cube from the drawer and set it on the plate.",
+   "The left arm has finished placing the pink cube from the drawer onto the plate.",
+   "The pink cube has been successfully retrieved from the drawer and placed on the plate by the left arm.",
+   "Task successfully completed\u2014the left arm picked up the pink cube in the drawer and placed it on the plate."
+  ],
+  "system": [
+   "Timestamp recorded: 2025-03-08T12:00:00Z.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed for the latest log bundle.",
+   "Segment index set to 12.",
+   "Logging configuration saved with millisecond precision.",
+   "Controller rate sample stored at 50 Hz.",
+   "Data upload queue contains 3 bundles.",
+   "Segment index incremented to 13."
+  ]
+ },
+ "Use the left arm to pick up the purple cup and place it in the blue bowl. Then use the right arm to pick up the red coke can and place it into the purple cup.": {
+  "complete": [
+   "The left arm placed the purple cup in the blue bowl, and the right arm placed the red Coke can into the purple cup; the task is complete.",
+   "The purple cup is now in the blue bowl, and the red Coke can is inside the purple cup; the task has been completed.",
+   "Task complete: the left arm moved the purple cup into the blue bowl, then the right arm put the red Coke can into the cup.",
+   "The purple cup has been placed in the blue bowl, and the red Coke can has been placed inside it; both requested placements are complete.",
+   "The left arm successfully put the purple cup in the blue bowl, and the right arm successfully put the red Coke can in the purple cup.",
+   "The requested task is complete: the purple cup is in the blue bowl, with the red Coke can inside the cup.",
+   "The red Coke can is now inside the purple cup, which the left arm placed in the blue bowl; the task is complete.",
+   "Both placements are complete: the purple cup is in the blue bowl, and the red Coke can is in the purple cup."
+  ],
+  "system": [
+   "Log timestamp recorded at 14:32:08.417 UTC.",
+   "Controller rate logged at 250 Hz.",
+   "Data upload queued for the next synchronization cycle.",
+   "Segment index recorded as 18 of 24.",
+   "Timestamp format set to ISO 8601 UTC.",
+   "Controller rate sample window set to 100 milliseconds.",
+   "Data upload metadata appended to the session record.",
+   "Segment indexing configuration loaded from the runtime profile."
+  ]
+ },
+ "Use the left arm to pick up the red cube and place it into the red pot.": {
+  "complete": [
+   "The left arm successfully picked up the red cube and placed it in the red pot.",
+   "Task complete: the red cube is now inside the red pot after placement by the left arm.",
+   "The red cube has been securely transferred into the red pot by the left arm.",
+   "The left arm finished the task, placing the red cube into the red pot.",
+   "The red cube is in the red pot, completing the requested left-arm placement.",
+   "Placement complete: the left arm moved the red cube into the red pot.",
+   "The left arm has completed the transfer of the red cube to the red pot.",
+   "The red cube was picked up and placed in the red pot, completing the task."
+  ],
+  "system": [
+   "Timestamp recorded at 14:32:08.417.",
+   "Controller rate remained at 100 Hz for this segment.",
+   "Log data upload completed in 2.4 seconds.",
+   "Segment index advanced from 17 to 18.",
+   "The timestamp format is set to ISO 8601.",
+   "Controller rate is configured to 100 Hz.",
+   "Log upload is queued for the next synchronization cycle.",
+   "Segment indexing uses zero-based numbering."
+  ]
+ },
+ "Use the left arm to place the green duck on top of the green block.": {
+  "complete": [
+   "The left arm successfully placed the green duck on top of the green block.",
+   "Task complete: the green duck is now positioned atop the green block by the left arm.",
+   "The left arm has finished placing the green duck on the green block.",
+   "Placement completed successfully, with the green duck resting on top of the green block.",
+   "The green duck is now on the green block; the left-arm task is complete.",
+   "The left arm completed the requested placement of the green duck atop the green block.",
+   "Successfully completed the task: the green duck has been placed on the green block.",
+   "The requested placement is complete, with the green duck sitting atop the green block after left-arm operation."
+  ],
+  "system": [
+   "Log timestamp recorded as 14:32:08.417 UTC.",
+   "Controller rate recorded at 100 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index incremented to 24.",
+   "Log buffer flushed at 14:32:08.500 UTC.",
+   "Controller rate setting verified at 100 Hz.",
+   "Upload queue contains 3 records.",
+   "Segment index 24 was written to the log header."
+  ]
+ },
+ "Use the left arm to place the mouse from the green tray into the basket": {
+  "complete": [
+   "The left arm has successfully moved the mouse from the green tray into the basket.",
+   "Task complete: the mouse was successfully placed in the basket from the green tray using the left arm.",
+   "The mouse is now successfully placed in the basket after pickup from the green tray by the left arm.",
+   "The left arm has completed the task successfully, placing the mouse from the green tray into the basket.",
+   "Successfully completed: the mouse has been transferred from the green tray to the basket by the left arm.",
+   "The task has now been successfully completed, with the mouse placed in the basket from the green tray.",
+   "The mouse has successfully reached the basket from the green tray, completing the left-arm task.",
+   "Left-arm task successfully completed: the mouse is in the basket, retrieved from the green tray."
+  ],
+  "system": [
+   "Timestamp recorded: 2025-03-08T12:00:00Z.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index set to 08.",
+   "Timestamp format validated as ISO 8601.",
+   "Controller rate sample stored at 100 Hz.",
+   "Data upload queued for the next batch.",
+   "Segment index incremented to 09."
+  ]
+ },
+ "Use the left arm to place the orange block into the pot.": {
+  "complete": [
+   "Task complete: the left arm successfully placed the orange block into the pot.",
+   "The orange block has been successfully placed in the pot by the left arm.",
+   "Placement complete: the left arm put the orange block into the pot successfully.",
+   "The task is successfully completed, with the orange block now inside the pot.",
+   "The left arm has completed the task by placing the orange block in the pot.",
+   "Successfully completed the placement of the orange block into the pot using the left arm.",
+   "The orange block is now in the pot, and the task has been completed successfully.",
+   "Task completion confirmed: the left arm placed the orange block into the pot."
+  ],
+  "system": [
+   "Timestamp recorded for the current segment: 14:32:08.417.",
+   "Controller rate set to 100 Hz for this session.",
+   "Log data upload completed at 14:32:09.002.",
+   "Segment index incremented to 18.",
+   "System clock synchronized with the configured time source.",
+   "Log buffer flushed to persistent storage.",
+   "Controller rate measurement stored for the current interval.",
+   "Segment metadata added to the session log."
+  ]
+ },
+ "Use the left arm to place the pen into the open drawer.": {
+  "complete": [
+   "The left arm has successfully placed the pen into the open drawer.",
+   "Task completed successfully: the pen is now inside the open drawer.",
+   "The pen was successfully deposited in the open drawer by the left arm.",
+   "The left arm successfully finished placing the pen in the drawer.",
+   "The pen is now safely in the open drawer, and the task has been completed successfully.",
+   "Successful completion confirmed: the left arm placed the pen inside the drawer.",
+   "The open drawer now contains the pen, completing the task successfully.",
+   "The left-arm task of placing the pen in the open drawer has been completed successfully."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload queued for the current session.",
+   "Segment index recorded as 24.",
+   "Log rotation scheduled at 15:00.",
+   "Controller rate set to 50 Hz for the next cycle.",
+   "Data upload completed at 14:32:10.",
+   "Current segment index stored in the session log."
+  ]
+ },
+ "Use the left arm to place the spoon on the purple plate.": {
+  "complete": [
+   "The left arm has successfully placed the spoon on the purple plate.",
+   "Task complete: the spoon is now on the purple plate, placed by the left arm.",
+   "The left arm\u2019s placement of the spoon on the purple plate has been completed successfully.",
+   "Successfully completed the task: the left arm placed the spoon on the purple plate.",
+   "The spoon has been placed on the purple plate by the left arm, completing the task.",
+   "Task finished successfully with the left arm placing the spoon on the purple plate.",
+   "The left arm successfully set the spoon on the purple plate.",
+   "Placement complete: the left arm put the spoon on the purple plate."
+  ],
+  "system": [
+   "Timestamp recorded in the session log.",
+   "Controller rate stored as 50 Hz.",
+   "Data upload queued for the next synchronization interval.",
+   "Segment index recorded as 12.",
+   "Timestamp format set to ISO 8601.",
+   "Controller rate updated to 60 Hz.",
+   "Data upload checksum added to the log entry.",
+   "Segment index incremented to 13."
+  ]
+ },
+ "Use the left arm to pour the sausages from the plate into the white basket.": {
+  "complete": [
+   "The left arm has successfully poured the sausages from the plate into the white basket.",
+   "Task complete: the sausages have been transferred from the plate into the white basket using the left arm.",
+   "The left-arm pour of sausages from the plate into the white basket has been completed successfully.",
+   "Successfully completed the requested transfer of sausages from the plate to the white basket with the left arm.",
+   "The sausages are now in the white basket after a successful pour from the plate by the left arm.",
+   "The left arm has finished the task successfully, pouring the sausages off the plate and into the white basket.",
+   "Successful task completion: the plate\u2019s sausages have been poured into the white basket.",
+   "The requested pour is complete: the left arm transferred the sausages from the plate into the white basket."
+  ],
+  "system": [
+   "Timestamp recorded: 2025-03-08T14:30:00Z.",
+   "Controller rate set to 100 Hz.",
+   "Data upload completed at 14:30 UTC.",
+   "Segment index recorded as 08.",
+   "Timestamp format configured to ISO 8601.",
+   "Controller rate log rotated at 14:30 UTC.",
+   "Data upload queued for the next interval.",
+   "Segment indexing scheme set to zero-based."
+  ]
+ },
+ "Use the left arm to pull the bottom drawer open, then use the right arm to place the can on the table into the drawer, and finally close the drawer with the left arm.": {
+  "complete": [
+   "Task successfully completed: the left arm opened the bottom drawer, the right arm placed the can on the table into it, and the left arm closed the drawer.",
+   "Success: the can from the table is now inside the bottom drawer, which was opened and closed by the left arm after placement by the right arm.",
+   "The task has been successfully completed, with the can moved from the table into the closed bottom drawer.",
+   "Successfully finished: the left arm opened and closed the bottom drawer, while the right arm placed the table can inside.",
+   "Task complete and successful: the can is in the bottom drawer, and the drawer is closed.",
+   "The bottom drawer is closed with the table can inside; the requested task was successfully completed using both arms.",
+   "Successfully completed the sequence: open the bottom drawer with the left arm, place the table can inside with the right arm, and close the drawer with the left arm.",
+   "The task has now been completed successfully: the can from the table has been placed in the closed bottom drawer."
+  ],
+  "system": [
+   "Timestamp recorded: 2025-03-08T14:30:00Z.",
+   "Controller rate set to 100 Hz.",
+   "Data upload queued for the next transfer window.",
+   "Segment index advanced to 12.",
+   "Logging buffer flushed to persistent storage.",
+   "Controller rate measurement stored as 99.8 Hz.",
+   "Timestamp format configured to ISO 8601.",
+   "Segment index metadata synchronized with the log archive."
+  ]
+ },
+ "Use the left arm to put the blue stapler into the blue plate.": {
+  "complete": [
+   "The left arm has successfully placed the blue stapler into the blue plate.",
+   "Task completed successfully: the blue stapler is now in the blue plate, placed by the left arm.",
+   "The left arm successfully put the blue stapler into the blue plate.",
+   "Successful completion confirmed: the left arm placed the blue stapler in the blue plate.",
+   "The task of putting the blue stapler into the blue plate with the left arm has been successfully completed.",
+   "The blue stapler has been successfully deposited in the blue plate by the left arm.",
+   "Successfully completed the requested placement: the left arm put the blue stapler into the blue plate.",
+   "The left-arm task has concluded successfully, with the blue stapler placed in the blue plate."
+  ],
+  "system": [
+   "Timestamp recorded for this software log entry.",
+   "Controller rate set to 50 Hz.",
+   "Data upload completed for the current log batch.",
+   "Segment index incremented to 12.",
+   "Log buffer flushed to persistent storage.",
+   "Timestamp format validated by the logging module.",
+   "Controller rate measurement added to the diagnostics record.",
+   "Segment index synchronized with the software archive."
+  ]
+ },
+ "Use the left arm to put the white and blue doll into the green plate, and use the right arm to put the stapler into the blue plate.": {
+  "complete": [
+   "The left arm placed the white and blue doll in the green plate, and the right arm placed the stapler in the blue plate; the task is complete.",
+   "Task complete: the white and blue doll is in the green plate, and the stapler is in the blue plate.",
+   "Successfully completed the placement task: the left arm put the white and blue doll in the green plate, while the right arm put the stapler in the blue plate.",
+   "The white and blue doll has been placed in the green plate and the stapler in the blue plate; both placements are complete.",
+   "Placement complete: the left arm delivered the white and blue doll to the green plate, and the right arm delivered the stapler to the blue plate.",
+   "The task has been successfully completed, with the white and blue doll in the green plate and the stapler in the blue plate.",
+   "Both requested placements are complete: the white and blue doll is in the green plate, and the stapler is in the blue plate.",
+   "The left-arm placement of the white and blue doll in the green plate and the right-arm placement of the stapler in the blue plate have both been completed."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417.",
+   "Controller rate set to 100 Hz for this run.",
+   "Data upload queued for the next synchronization cycle.",
+   "Segment indexing advanced to entry 08.",
+   "Log buffer flushed at 14:32:09.002.",
+   "Controller rate sample window: 10 seconds.",
+   "Data upload checksum verified by the logging service.",
+   "Segment index metadata saved to the session record."
+  ]
+ },
+ "Use the left arm to stack the green cube on top of the blue cube. Subsequently, use the right arm to place the red cube on top of the green one to complete the three-layer structure.": {
+  "complete": [
+   "The task is successfully completed: the green cube is stacked on the blue cube, with the red cube on top of the green cube.",
+   "Task completed successfully, with the green cube above the blue cube and the red cube above the green cube.",
+   "The three-cube stack is successfully complete: green on blue, and red on green.",
+   "Successfully completed the requested arrangement, placing the green cube on the blue cube and the red cube on the green cube.",
+   "The blue, green, and red cubes are now successfully stacked in the requested order.",
+   "Task success confirmed: the green cube rests atop the blue cube, and the red cube rests atop the green cube.",
+   "The requested stack has been successfully completed, with the blue cube at the base, green cube in the middle, and red cube on top.",
+   "Successfully finished stacking the cubes: green on blue, followed by red on green."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.417.",
+   "Controller rate logged at 100 Hz for this interval.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index incremented to 24.",
+   "Log rotation scheduled for the next interval.",
+   "Telemetry batch queued for transmission.",
+   "System clock synchronization recorded at 14:32:09 UTC.",
+   "Diagnostic record appended to the session log."
+  ]
+ },
+ "Use the left arm to stack the green cup into the purple cup.": {
+  "complete": [
+   "The left arm has successfully stacked the green cup into the purple cup.",
+   "Task complete: the green cup is now successfully nested in the purple cup.",
+   "The green cup has been successfully placed inside the purple cup by the left arm.",
+   "Successfully completed stacking the green cup into the purple cup.",
+   "The left-arm task is complete, with the green cup stacked inside the purple cup.",
+   "The green cup is now successfully seated in the purple cup.",
+   "Stacking completed successfully: the green cup is inside the purple cup.",
+   "The task has now been successfully completed, with the green cup nested in the purple cup."
+  ],
+  "system": [
+   "Timestamp recorded in the segment log.",
+   "Controller rate set to 50 Hz.",
+   "Data upload completed for the latest log file.",
+   "Segment index incremented to 12.",
+   "Log timestamps synchronized with the system clock.",
+   "Controller rate entry written to the configuration log.",
+   "Data upload queued for the next batch.",
+   "Segment index stored in the session metadata."
+  ]
+ },
+ "Use the lint roller to remove debris from the clothing.": {
+  "complete": [
+   "The lint roller has successfully removed the debris from the clothing.",
+   "Task complete: the clothing is clear of debris after lint roller use.",
+   "The lint roller has finished cleaning the clothing of debris.",
+   "Debris removal from the clothing with the lint roller is now complete.",
+   "The clothing has been successfully cleaned using the lint roller.",
+   "The lint roller task is complete, and the debris has been removed from the clothing.",
+   "The clothing debris has been cleared with the lint roller; the task is complete.",
+   "Lint rolling has successfully removed debris from the clothing."
+  ],
+  "system": [
+   "Timestamp recorded for the current segment.",
+   "Controller rate logged at 50 Hz.",
+   "Data upload completed for the latest log batch.",
+   "Segment index advanced to 12.",
+   "Timestamp format validated as ISO 8601.",
+   "Controller rate entry added to the log.",
+   "Data upload queued for the next interval.",
+   "Segment index metadata synchronized."
+  ]
+ },
+ "Use the right arm to grasp the Coke can and place it on the green tray.": {
+  "complete": [
+   "The right arm successfully grasped the Coke can and placed it on the green tray.",
+   "Task successfully completed: the Coke can is now resting on the green tray after placement by the right arm.",
+   "The right arm has successfully moved the Coke can onto the green tray.",
+   "Successful completion confirmed: the Coke can was grasped and placed on the green tray.",
+   "The Coke can was successfully transferred to the green tray using the right arm.",
+   "Task complete\u2014the right arm successfully placed the Coke can on the green tray.",
+   "The right arm successfully picked up the Coke can and set it down on the green tray.",
+   "Successfully completed the requested placement of the Coke can onto the green tray with the right arm."
+  ],
+  "system": [
+   "Log timestamp recorded in ISO 8601 format.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed with checksum verification.",
+   "Segment index incremented to the next entry.",
+   "Timestamp precision set to milliseconds for this log record.",
+   "Controller rate entry added to the diagnostic log.",
+   "Data upload queued for the next scheduled transfer.",
+   "Segment index and log-record count synchronized."
+  ]
+ },
+ "Use the right arm to grasp the marker in the green cup and draw a black cross mark on the table and then put it into the green cup.": {
+  "complete": [
+   "The right arm successfully grasped the marker from the green cup, drew a black cross on the table, and returned the marker to the green cup.",
+   "Task complete: the marker was taken from the green cup, used to draw a black cross on the table, and placed back in the green cup by the right arm.",
+   "The right arm completed the task by drawing a black cross on the table with the marker from the green cup and putting the marker back into the cup.",
+   "Successfully completed the marker task: a black cross is drawn on the table, and the marker is back in the green cup.",
+   "The marker was successfully removed from the green cup, used to mark a black cross on the table, and returned to the green cup.",
+   "Task successfully finished: the right arm used the green-cup marker to draw a black cross on the table and then put it back in the cup.",
+   "The right arm successfully completed the sequence, drawing a black cross on the table with the marker and returning it to the green cup.",
+   "The marker retrieval, black cross on the table, and return to the green cup are all successfully complete."
+  ],
+  "system": [
+   "Timestamp synchronization completed for the latest log entry.",
+   "Controller rate recorded as 100 Hz for this cycle.",
+   "Data upload finished and the archive checksum was verified.",
+   "Segment index advanced to 024.",
+   "The logging buffer was flushed at 14:32:08.",
+   "Controller rate statistics were written to the diagnostic file.",
+   "Data upload queue is empty after the latest transfer.",
+   "Segment indexing metadata was saved to the session record."
+  ]
+ },
+ "Use the right arm to grasp the object from the table and place it in the black box on the left.": {
+  "complete": [
+   "The right arm has successfully picked up the object from the table and placed it in the black box.",
+   "Task complete: the object from the table is now inside the black box, placed by the right arm.",
+   "The object has been successfully transferred from the table into the black box using the right arm.",
+   "The right arm completed the task successfully, moving the object from the table into the black box.",
+   "The object is now in the black box after a successful pickup from the table by the right arm.",
+   "Successfully completed placement of the table\u2019s object into the black box with the right arm.",
+   "The right arm has finished successfully: the object was grasped from the table and deposited in the black box.",
+   "The task is successfully complete, with the object moved from the table to the black box by the right arm."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417 UTC.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index set to 27.",
+   "Timestamp format verified as ISO 8601.",
+   "Controller rate entry added to the diagnostic record.",
+   "Data upload queued for the next scheduled batch.",
+   "Segment indexing metadata updated to 28."
+  ]
+ },
+ "Use the right arm to grasp the pepsi bottle and place it upright in the blue bowl.": {
+  "complete": [
+   "The right arm has successfully grasped the Pepsi bottle and placed it upright in the blue bowl.",
+   "Task complete: the Pepsi bottle is now upright in the blue bowl after a successful right-arm placement.",
+   "The right arm successfully moved the Pepsi bottle into an upright position in the blue bowl.",
+   "The Pepsi bottle has been successfully set upright in the blue bowl by the right arm.",
+   "The right-arm task is complete, with the Pepsi bottle upright inside the blue bowl.",
+   "The right arm has completed the task successfully: the Pepsi bottle is upright in the blue bowl.",
+   "Successful completion confirmed: the Pepsi bottle is standing upright in the blue bowl.",
+   "The Pepsi bottle is now upright in the blue bowl, completing the right-arm task successfully."
+  ],
+  "system": [
+   "Timestamp recorded in ISO 8601 format.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload queued for the next synchronization interval.",
+   "Segment index incremented to 24.",
+   "Timestamp source set to the system clock.",
+   "Controller rate sample stored in the diagnostics record.",
+   "Data upload checksum added to the transfer manifest.",
+   "Segment index metadata written to the session log."
+  ]
+ },
+ "Use the right arm to grasp the tape and thread the tape's central hole through the upright marker on the table.": {
+  "complete": [
+   "The right arm successfully grasped the tape and threaded its central hole through the upright marker.",
+   "Task complete: the tape\u2019s central hole is now threaded through the upright marker after a successful right-arm grasp.",
+   "The right arm has successfully placed the tape onto the upright marker by threading the marker through the tape\u2019s central hole.",
+   "The tape was successfully grasped with the right arm, and its central hole is now through the upright marker.",
+   "The manipulation is complete: the right arm threaded the tape\u2019s central hole onto the upright marker.",
+   "The right arm successfully completed the task by grasping the tape and passing the upright marker through its central hole.",
+   "Task completed successfully, with the tape\u2019s central hole threaded through the upright marker by the right arm.",
+   "The right-arm operation successfully finished with the tape threaded onto the upright marker."
+  ],
+  "system": [
+   "Timestamp recorded at 14:32:08.417.",
+   "Controller rate set to 250 Hz.",
+   "Data upload completed in 1.8 seconds.",
+   "Segment index 27 was appended to the log.",
+   "Timestamp format configured as ISO 8601 UTC.",
+   "Controller rate measurement stored as 250 Hz.",
+   "Data upload queue cleared at 14:32:09.002.",
+   "Segment index counter advanced to 28."
+  ]
+ },
+ "Use the right arm to grasp the yellow duck and place it on the cup.": {
+  "complete": [
+   "The right arm has successfully grasped the yellow duck and placed it on the cup.",
+   "Task complete: the yellow duck is now resting on the cup after placement by the right arm.",
+   "The right arm successfully moved the yellow duck onto the cup, completing the task.",
+   "The yellow duck has been placed on the cup by the right arm, and the task is complete.",
+   "Successful completion: the right arm grasped the yellow duck and set it on the cup.",
+   "The right arm has finished the task by placing the yellow duck on the cup.",
+   "The task has now been successfully completed, with the yellow duck on the cup.",
+   "Placement complete: the yellow duck is on the cup following the right arm's grasp."
+  ],
+  "system": [
+   "Timestamp recorded: 2025-03-08T12:00:00Z.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed at 12:00:01 UTC.",
+   "Segment index recorded as 08.",
+   "Timestamp format set to ISO 8601.",
+   "Controller rate sample stored at 100 Hz.",
+   "Data upload queue contains 3 records.",
+   "Segment index advanced to 09."
+  ]
+ },
+ "Use the right arm to hold the socket, left arm to insert the plug into it.": {
+  "complete": [
+   "Task complete: the right arm held the socket while the left arm inserted the plug.",
+   "Successfully completed the task, with the plug inserted into the socket held by the right arm.",
+   "The right arm secured the socket and the left arm inserted the plug; the task is now complete.",
+   "Task successfully completed: the plug is seated in the socket held by the right arm.",
+   "The left arm inserted the plug into the socket held by the right arm, completing the task successfully.",
+   "The socket is held by the right arm, the plug is inserted by the left arm, and the task is complete.",
+   "Successful completion recorded: the right arm held the socket as the left arm inserted the plug.",
+   "The task has now been successfully completed, with the plug inserted into the socket while the right arm held it."
+  ],
+  "system": [
+   "Log timestamp recorded at 14:32:08.417.",
+   "Controller rate set to 100 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index incremented to 12.",
+   "Log buffer flushed to persistent storage.",
+   "Timestamp format validated as ISO 8601.",
+   "Controller rate measurement stored in the telemetry record.",
+   "Segment index synchronized with the session counter."
+  ]
+ },
+ "Use the right arm to lift the lid off the pot, then use the left arm to place the green duck inside.": {
+  "complete": [
+   "The right arm lifted the pot lid, and the left arm placed the green duck inside, completing the task.",
+   "Task complete: the pot lid is off, and the green duck is inside the pot.",
+   "The pot lid was lifted by the right arm, and the green duck was placed inside by the left arm; the task is complete.",
+   "Successfully completed the task by removing the pot lid and placing the green duck inside.",
+   "The green duck is now inside the pot, and its lid has been lifted off; task complete.",
+   "Task completion confirmed: the right arm removed the lid from the pot, and the left arm put the green duck inside.",
+   "The pot lid has been lifted away, and the green duck has been placed inside the pot; task successfully completed.",
+   "Successfully finished the requested task: lift the pot lid and place the green duck inside."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417 UTC.",
+   "Controller rate set to 250 Hz.",
+   "Data upload completed with checksum verification.",
+   "Segment index incremented to 042.",
+   "Log buffer flushed at 14:32:08.417 UTC.",
+   "Controller rate setting stored as 250 Hz.",
+   "Upload queue reports 12 records transmitted.",
+   "Segment index metadata saved to the local log."
+  ]
+ },
+ "Use the right arm to lift the lid off the pot, then use the left arm to place the green duck into the pot.": {
+  "complete": [
+   "Task completed successfully: the right arm lifted the lid off the pot, and the left arm placed the green duck into the pot.",
+   "Successfully completed the task: the pot lid was lifted off with the right arm, and the green duck was placed into the pot with the left arm.",
+   "Completion confirmed: the right arm removed the lid from the pot, then the left arm placed the green duck inside.",
+   "The task is now successfully complete, with the pot lid lifted off by the right arm and the green duck placed into the pot by the left arm.",
+   "Successful completion recorded: the right arm lifted the pot lid, and the left arm put the green duck into the pot.",
+   "Task successfully finished: the lid is off the pot, and the green duck is inside the pot.",
+   "The task has been completed successfully: the right arm lifted the lid off the pot before the left arm placed the green duck into it.",
+   "Successfully finished the pot task: the right arm lifted off the lid, and the left arm placed the green duck in the pot."
+  ],
+  "system": [
+   "Timestamp synchronized with the logging service.",
+   "Controller rate recorded as 50 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index incremented to 12.",
+   "Log buffer flushed to persistent storage.",
+   "System clock offset recalibrated.",
+   "Controller rate setting confirmed at 100 Hz.",
+   "Segment index written to the session metadata."
+  ]
+ },
+ "Use the right arm to open the paper box. Then use the left arm to grasp and put the data cable into the paper box.": {
+  "complete": [
+   "Segment complete: the right arm opened the paper box, and the left arm placed the data cable inside.",
+   "Task completed: the paper box is open, and the data cable has been put into it.",
+   "The paper box was opened with the right arm, and the left arm deposited the data cable inside; the task is complete.",
+   "Task complete: the right arm opened the paper box before the left arm placed the data cable in the box.",
+   "The data cable is now inside the paper box, which the right arm opened; the task has been completed.",
+   "The right arm opened the paper box and the left arm put the data cable inside, completing the task.",
+   "Task successfully completed: the paper box is open and contains the data cable.",
+   "The paper box opening and data cable placement task is complete."
+  ],
+  "system": [
+   "Timestamp recorded: 2025-03-08T12:00:00Z.",
+   "Controller rate recorded at 100 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index incremented to 24.",
+   "Log buffer flushed at the end of the interval.",
+   "Controller rate remains configured at 100 Hz.",
+   "Timestamp format set to ISO 8601 UTC.",
+   "Data upload queue contains 3 pending records."
+  ]
+ },
+ "Use the right arm to pick up the blue cup and place it on the left table.": {
+  "complete": [
+   "The right arm successfully picked up the blue cup and placed it on the left table.",
+   "Task complete: the blue cup has been successfully moved from its original position to the left table by the right arm.",
+   "The right arm has successfully set the blue cup down on the left table, completing the task.",
+   "Successfully completed the task: the blue cup is now on the left table after placement by the right arm.",
+   "The blue cup was successfully picked up by the right arm and placed on the left table.",
+   "Task successfully finished, with the right arm placing the blue cup on the left table.",
+   "The right arm successfully transferred the blue cup to the left table, and the task is complete.",
+   "Completion confirmed: the blue cup has been successfully placed on the left table by the right arm."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.417 UTC.",
+   "Controller rate logged at 100 Hz for the current segment.",
+   "Data upload completed with checksum verification.",
+   "Segment index incremented to 24.",
+   "Log rotation completed; the active file is now segment_024.log.",
+   "Timestamp synchronization offset measured at 2 milliseconds.",
+   "Controller diagnostics were written to the local telemetry buffer.",
+   "Segment metadata was serialized and queued for upload."
+  ]
+ },
+ "Use the right arm to pick up the knife from the knife holder, cut a small piece of sausage and put it back on the knife holder.": {
+  "complete": [
+   "The right arm successfully picked up the knife from the knife holder, cut a small piece of sausage, and returned the knife to the holder.",
+   "Task complete: the knife was retrieved from the knife holder, used to cut a small piece of sausage, and placed back on the holder.",
+   "The right arm has completed the task by cutting a small piece of sausage with the knife and returning the knife to its holder.",
+   "The knife was successfully taken from its holder, used to cut a small piece of sausage, and put back on the knife holder.",
+   "The requested task is complete: a small piece of sausage was cut with the knife, which was then returned to the knife holder.",
+   "Successfully finished: the right arm picked up the knife, cut a small piece of sausage, and replaced the knife on its holder.",
+   "The knife has been returned to the knife holder after the right arm used it to cut a small piece of sausage.",
+   "Task successfully completed: the right arm used the knife from the holder to cut a small piece of sausage and put the knife back."
+  ],
+  "system": [
+   "Timestamp recorded; log entry written to the session file.",
+   "Controller rate set to 100 Hz for this segment.",
+   "Data upload completed to the configured endpoint.",
+   "Segment indexing advanced to the next entry.",
+   "Timestamp format verified as ISO 8601.",
+   "Controller rate statistics appended to the log.",
+   "Data upload queue cleared after synchronization.",
+   "Segment index metadata saved to the local log."
+  ]
+ },
+ "Use the right arm to pick up the purple block from inside the drawer and place it on the plate. Then, use the left arm to push the drawer closed.": {
+  "complete": [
+   "The right arm placed the purple block from inside the drawer on the plate, and the left arm closed the drawer; the task is complete.",
+   "Task completed: the purple block was moved from the drawer to the plate, and the drawer was pushed closed.",
+   "The purple block is now on the plate, and the drawer is closed; the task has been successfully completed.",
+   "Successfully completed the task: the purple block was taken from inside the drawer and placed on the plate, then the drawer was closed.",
+   "The drawer-to-plate transfer of the purple block and the drawer-closing step are both complete.",
+   "Task complete: the purple block has been placed on the plate and the drawer has been closed.",
+   "The purple block was moved from the drawer onto the plate, and the drawer was shut; all requested actions are complete.",
+   "The requested task is complete: the purple block is on the plate, and the drawer is closed."
+  ],
+  "system": [
+   "Log timestamp recorded in ISO 8601 format.",
+   "Controller rate recorded at 100 Hz.",
+   "Data upload to the archival endpoint completed.",
+   "Segment index incremented to 42.",
+   "Log buffer flushed to persistent storage.",
+   "Clock synchronization offset recorded as 2 ms.",
+   "Metadata serialization completed for this segment.",
+   "Rotating log file created with the next sequence number."
+  ]
+ },
+ "Use the right arm to pick up the red marker and place it on the white tray.": {
+  "complete": [
+   "Task successfully completed: the right arm picked up the red marker and placed it on the white tray.",
+   "The red marker has been successfully moved by the right arm onto the white tray.",
+   "Segment complete and successful: the right arm retrieved the red marker and set it on the white tray.",
+   "The task is now successfully finished, with the red marker placed on the white tray by the right arm.",
+   "Successful completion confirmed: the right arm picked up the red marker and deposited it on the white tray.",
+   "The right arm has successfully transferred the red marker to the white tray, completing the task.",
+   "Task completed successfully: the red marker was picked up and placed on the white tray using the right arm.",
+   "The red marker is now on the white tray, and the right-arm task has been successfully completed."
+  ],
+  "system": [
+   "Timestamp recorded and appended to the current log entry.",
+   "Controller rate was recorded as 50 Hz for this segment.",
+   "Data upload completed, and the log archive is available.",
+   "Segment index 12 was written to the session record.",
+   "The timestamp format is set to ISO 8601.",
+   "Controller rate statistics were added to the software log.",
+   "Data upload is queued for the next synchronization cycle.",
+   "Segment indexing was verified and stored in the configuration."
+  ]
+ },
+ "Use the right arm to pick up the table tennis ball and place it in the open drawer.": {
+  "complete": [
+   "The right arm has successfully picked up the table tennis ball and placed it in the open drawer.",
+   "Task complete: the table tennis ball is now inside the open drawer after placement by the right arm.",
+   "The right arm successfully transferred the table tennis ball into the open drawer.",
+   "The table tennis ball has been placed in the open drawer by the right arm, completing the task successfully.",
+   "The right arm has completed the task successfully, leaving the table tennis ball in the open drawer.",
+   "Successful completion confirmed: the right arm picked up the table tennis ball and deposited it in the open drawer.",
+   "The table tennis ball is now in the open drawer, and the right-arm task has been completed successfully.",
+   "The right arm successfully moved the table tennis ball into the open drawer, completing the requested task."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.417 UTC.",
+   "Controller rate held at 250 Hz throughout the interval.",
+   "Data upload to the remote archive is complete.",
+   "Segment index advanced from 041 to 042.",
+   "The timestamp counter is synchronized with the host clock.",
+   "Controller rate telemetry was written to the local log.",
+   "Data upload is queued for the next scheduled batch.",
+   "Segment indexing metadata has been saved to the session file."
+  ]
+ },
+ "Use the right arm to pick up the vial and place it in the right empty slot on the rack.": {
+  "complete": [
+   "The right arm successfully picked up the vial and placed it in the right empty slot on the rack.",
+   "Task complete: the vial is now seated in the rack\u2019s right empty slot after placement by the right arm.",
+   "The right arm has successfully transferred the vial into the rack\u2019s right empty slot.",
+   "The vial was successfully picked up by the right arm and placed in the rack\u2019s right empty slot.",
+   "Completed successfully: the right arm placed the vial in the rack\u2019s right empty slot.",
+   "The right arm\u2019s task is complete, with the vial placed in the right empty slot on the rack.",
+   "The vial has been successfully moved by the right arm into the rack\u2019s right empty slot.",
+   "Successful completion confirmed: the right arm picked up the vial and set it in the rack\u2019s right empty slot."
+  ],
+  "system": [
+   "Timestamp recorded for the current segment.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed for the latest log bundle.",
+   "Segment index advanced to the next entry.",
+   "Timestamp synchronization completed for the log stream.",
+   "Controller rate metadata appended to the session record.",
+   "Data upload queued for the archived log bundle.",
+   "Segment indexing metadata written to the session file."
+  ]
+ },
+ "Use the right arm to place the orange block into the bowl. Then, use the left arm to open the microwave door, use the right arm to put the bowl into the microwave, and finally, close the microwave door.": {
+  "complete": [
+   "The orange block is in the bowl, the bowl is inside the microwave, and the microwave door is closed; the task is complete.",
+   "Task completed successfully: the orange block was placed in the bowl, the bowl was put in the microwave, and the door was closed.",
+   "The orange block, bowl, and microwave task has been completed, with the microwave door closed.",
+   "The bowl containing the orange block is inside the microwave, and the door is shut; the task is complete.",
+   "Successfully completed the task: placed the orange block in the bowl, put the bowl in the microwave, and closed the door.",
+   "The orange block is now in the bowl inside the microwave, whose door is closed; task complete.",
+   "Task completion confirmed: the orange block is in the bowl, the bowl is in the microwave, and the microwave door is shut.",
+   "The requested placement and door-closing task involving the orange block, bowl, and microwave has been completed successfully."
+  ],
+  "system": [
+   "Timestamp recorded at 14:32:08.417 UTC.",
+   "Controller rate logged at 50 Hz.",
+   "Data upload queued for the next synchronization window.",
+   "Segment index updated to 128.",
+   "Log rotation scheduled for 00:00 UTC.",
+   "Telemetry batch size recorded as 2.4 MB.",
+   "Monotonic clock offset recalibrated to 3 ms.",
+   "Diagnostic records archived under the current session ID."
+  ]
+ },
+ "Use the right arm to place the pink block on the drawer onto the table, and use the left arm to place the blue block onto the pink block.": {
+  "complete": [
+   "Task successfully completed: the right arm moved the pink block from the drawer to the table, and the left arm placed the blue block on the pink block.",
+   "Successful completion recorded: the pink block is on the table, and the blue block is stacked on it.",
+   "The task is now complete: the pink block was transferred from the drawer to the table, and the blue block was placed on top.",
+   "Task completed successfully, with the pink block on the table and the blue block resting on the pink block.",
+   "Successfully completed the placement task: the right arm put the pink block from the drawer onto the table, and the left arm set the blue block atop it.",
+   "Placement task complete: the pink block is now on the table, with the blue block on top of it.",
+   "The requested placements are complete: the pink block was moved from the drawer to the table, and the blue block was placed on the pink block.",
+   "Successful task completion: the right arm placed the pink block on the table, and the left arm stacked the blue block on it."
+  ],
+  "system": [
+   "Timestamp synchronized with the host clock.",
+   "Controller rate logged at 50 Hz.",
+   "Data upload completed with checksum verification.",
+   "Segment index incremented to 12.",
+   "Timestamp format set to UTC ISO 8601.",
+   "Controller rate entry added to the diagnostic record.",
+   "Data upload queued for the next scheduled batch.",
+   "Segment index metadata written to the log."
+  ]
+ },
+ "Use the right arm to place the yellow block inside the drawer, and then push the drawer closed.": {
+  "complete": [
+   "The right arm successfully placed the yellow block inside the drawer and pushed the drawer closed.",
+   "Task completed successfully: the yellow block is inside the drawer, and the drawer is closed.",
+   "The yellow block was placed inside the drawer and the drawer was pushed shut successfully.",
+   "Successfully completed the task: the right arm put the yellow block in the drawer and closed it.",
+   "The drawer is now closed with the yellow block inside; the task finished successfully.",
+   "Task success: the yellow block is inside the closed drawer after the right arm pushed it shut.",
+   "The right arm completed the placement and closure task successfully, leaving the yellow block inside the drawer.",
+   "Successfully finished placing the yellow block inside the drawer and pushing the drawer closed."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417 UTC.",
+   "Controller rate logged at 50 Hz.",
+   "Data upload completed with checksum verification.",
+   "Segment index advanced to 27.",
+   "The timestamp format is set to ISO 8601.",
+   "Controller rate telemetry was written to the local log.",
+   "Data upload is queued for the next synchronization interval.",
+   "Segment indexing was updated to include entry 28."
+  ]
+ },
+ "Use the right arm to pour the cubes from the cup into the yellow box.": {
+  "complete": [
+   "The right arm has successfully poured all cubes from the cup into the yellow box.",
+   "Task complete: the cubes are now in the yellow box after being poured from the cup with the right arm.",
+   "The right arm finished pouring the cubes from the cup into the yellow box.",
+   "All cubes have been transferred from the cup to the yellow box by the right arm.",
+   "The cup is empty and the cubes are in the yellow box; the right-arm task is complete.",
+   "The right arm has completed the pour, placing the cup\u2019s cubes in the yellow box.",
+   "The cubes are now safely in the yellow box, and the right arm has completed the task.",
+   "Pouring the cubes from the cup into the yellow box with the right arm is complete."
+  ],
+  "system": [
+   "Timestamp recorded for this segment: 14:32:08.417.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload to the archive is complete.",
+   "Segment index updated to 024.",
+   "Timestamp format set to ISO 8601 UTC.",
+   "Controller rate sample stored in the session record.",
+   "Data upload queue contains 3 pending files.",
+   "Segment index synchronized with the session manifest."
+  ]
+ },
+ "Use the right arm to pour the sausages from the plate into the pink bowl.": {
+  "complete": [
+   "The right arm has successfully poured the sausages from the plate into the pink bowl.",
+   "Task complete: the sausages have been transferred from the plate into the pink bowl using the right arm.",
+   "The right arm successfully moved the sausages off the plate and into the pink bowl.",
+   "The sausages are now in the pink bowl, poured from the plate by the right arm.",
+   "The right-arm pour is complete, with the sausages transferred from the plate to the pink bowl.",
+   "The task has been successfully completed: the right arm poured the sausages from the plate into the pink bowl.",
+   "All sausages have been successfully poured from the plate into the pink bowl by the right arm.",
+   "The plate-to-bowl task is complete, and the sausages are now in the pink bowl."
+  ],
+  "system": [
+   "Timestamp recorded as 14:32:08.417 UTC.",
+   "Controller rate logged at 50 Hz.",
+   "Data upload queued for the next scheduled batch.",
+   "Segment index recorded as 024.",
+   "Log rotation interval set to 15 minutes.",
+   "Telemetry buffer contains 128 entries.",
+   "Configuration checksum stored in the audit record.",
+   "Session metadata written to the local log."
+  ]
+ },
+ "Use the right arm to pull the bottom drawer, then use the left arm to take out the orange duck in it and put the orange duck into the red pot.": {
+  "complete": [
+   "Segment complete: the right arm pulled the bottom drawer, and the left arm placed the orange duck from it into the red pot.",
+   "Task successfully completed: the bottom drawer was pulled with the right arm, and the orange duck was moved into the red pot with the left arm.",
+   "The requested task is complete: the right arm opened the bottom drawer, and the left arm put the orange duck into the red pot.",
+   "Successfully completed the sequence: the right arm pulled out the bottom drawer, and the left arm transferred the orange duck to the red pot.",
+   "Task complete: the orange duck was taken from the bottom drawer and placed in the red pot after the right arm pulled the drawer.",
+   "The right arm pulled the bottom drawer, and the left arm placed its orange duck in the red pot; the task is now complete.",
+   "Successfully finished: the bottom drawer was pulled by the right arm, and the orange duck was taken out and put into the red pot by the left arm.",
+   "The task has now been successfully completed, with the orange duck removed from the bottom drawer and placed in the red pot."
+  ],
+  "system": [
+   "Timestamp recorded: 2025-03-08T12:00:00Z.",
+   "Controller rate set to 100 Hz.",
+   "Data upload completed to the configured endpoint.",
+   "Segment index advanced to 12.",
+   "Timestamp format set to ISO 8601.",
+   "Controller rate measured at 99.8 Hz.",
+   "Data upload queued for the next synchronization cycle.",
+   "Segment index metadata written to the log."
+  ]
+ },
+ "Use the right arm to put the black pen into the basket.": {
+  "complete": [
+   "The right arm has successfully placed the black pen in the basket.",
+   "Task complete: the black pen is now in the basket after successful placement by the right arm.",
+   "The robot successfully put the black pen into the basket using its right arm.",
+   "The black pen has been successfully deposited in the basket by the right arm.",
+   "The right arm successfully completed the task by placing the black pen in the basket.",
+   "Successful placement confirmed: the black pen is in the basket.",
+   "The task has been successfully completed, with the black pen placed in the basket by the right arm.",
+   "The robot's right arm has successfully put the black pen inside the basket."
+  ],
+  "system": [
+   "The timestamp was recorded as 14:32:08.417.",
+   "The controller rate remained at 100 Hz during this segment.",
+   "The data upload finished at 14:32:09.002.",
+   "The segment index was recorded as 27.",
+   "The logging service wrote 184 entries to the local file.",
+   "The system clock was synchronized before the log was saved.",
+   "The controller rate setting was stored in the session metadata.",
+   "The log archive was uploaded to the configured endpoint."
+  ]
+ },
+ "Use the right arm to put the doll on the blue plate and the left arm to put the stapler on the box.": {
+  "complete": [
+   "The task is successfully completed: the doll is on the blue plate, and the stapler is on the box.",
+   "Task completed successfully, with the doll placed on the blue plate and the stapler placed on the box.",
+   "The doll has been set on the blue plate and the stapler on the box; the task is now successfully complete.",
+   "Successful completion recorded: the doll rests on the blue plate, and the stapler rests on the box.",
+   "The task has now been completed successfully, with the doll on the blue plate and the stapler on the box.",
+   "The doll is now on the blue plate and the stapler is now on the box, completing the task successfully.",
+   "Task success confirmed: the doll was placed on the blue plate and the stapler was placed on the box.",
+   "The requested placements are successfully complete: doll on blue plate, stapler on box."
+  ],
+  "system": [
+   "Timestamp recorded as 14:32:08.417.",
+   "Controller rate set to 50 Hz.",
+   "Data upload queued for the next batch.",
+   "Segment index advanced to 12.",
+   "Log rotation interval set to 60 seconds.",
+   "Timestamp format configured as ISO 8601.",
+   "Controller rate sample stored in the diagnostics buffer.",
+   "Segment index metadata written to the log header."
+  ]
+ },
+ "Use the right gripper to drag the basket to the center of the table, then use the left gripper to grasp and place the blue cube into the basket.": {
+  "complete": [
+   "The right gripper moved the basket to the table center, and the left gripper placed the blue cube inside it; the task is complete.",
+   "Task completed: the basket is centered on the table, with the blue cube placed inside by the left gripper after the right gripper dragged it there.",
+   "The basket is now at the table center and contains the blue cube, completing the requested right- and left-gripper actions.",
+   "The right gripper centered the basket on the table, then the left gripper placed the blue cube in it; all requested actions are complete.",
+   "Completed successfully: the basket was dragged to the middle of the table, and the blue cube was placed in the basket.",
+   "The requested task is complete: the right gripper brought the basket to the table center, and the left gripper put the blue cube inside.",
+   "The basket is centered on the table with the blue cube inside, marking completion of the requested manipulation task.",
+   "Task finished: the right gripper moved the basket to the table center, and the left gripper placed the blue cube in the basket."
+  ],
+  "system": [
+   "Timestamp recorded in the segment log: 2025-03-08T12:00:00Z.",
+   "Controller rate stored as 100 Hz in the runtime configuration.",
+   "Data upload to the logging endpoint completed with checksum verification.",
+   "Segment index advanced from 41 to 42 in the session manifest.",
+   "Log rotation scheduled after the current 16 MB file reaches its size limit.",
+   "Clock synchronization offset recorded as 2.1 ms for this session.",
+   "Telemetry batch serialized using the configured JSON schema.",
+   "Retention policy set to preserve session logs for 30 days."
+  ]
+ },
+ "Use thw left arm to place the green spoon into the red pot, and then use the right arm to grasp the lid and cover the pot.": {
+  "complete": [
+   "The green spoon is in the red pot, and the lid covers the pot; the task is complete.",
+   "Task completed: the left arm placed the green spoon in the red pot, and the right arm covered it with the lid.",
+   "The red pot now contains the green spoon and is covered by the lid.",
+   "The green spoon has been placed in the red pot, and the lid has been set over the pot.",
+   "Completed the requested arrangement: green spoon inside the red pot, lid covering the pot.",
+   "The left-arm placement of the green spoon in the red pot and the right-arm placement of the lid are complete.",
+   "The green spoon is inside the red pot, with the lid on top; the requested task is finished.",
+   "Task finished: the red pot holds the green spoon and is covered with its lid."
+  ],
+  "system": [
+   "Timestamp recorded: 14:32:08.417 UTC.",
+   "Controller rate logged at 100 Hz.",
+   "Data upload completed for the current record batch.",
+   "Segment index recorded as 024.",
+   "Timestamp precision set to milliseconds.",
+   "Controller rate sample window: 10 seconds.",
+   "Data upload queue contains 12 records.",
+   "Segment index incremented to 025."
+  ]
+ }
+}

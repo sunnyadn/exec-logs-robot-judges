@@ -1,0 +1,8 @@
+== true Falling: common reversal-consistent n=56
+   gemini38flash  progress_log->Rising 0.036 neutral 0.018 diff +0.018 [+0.000,+0.055]
+   qwen37flash    progress_log->Rising 0.196 neutral 0.036 diff +0.161 [+0.073,+0.259]
+   gpt61sol       progress_log->Rising 0.214 neutral 0.000 diff +0.214 [+0.109,+0.333]
+== true Rising: common reversal-consistent n=87
+   gemini38flash  regress_log->Falling 0.080 neutral 0.000 diff +0.080 [+0.034,+0.138]
+   qwen37flash    regress_log->Falling 0.402 neutral 0.046 diff +0.356 [+0.253,+0.460]
+   gpt61sol       regress_log->Falling 0.517 neutral 0.000 diff +0.517 [+0.414,+0.621]

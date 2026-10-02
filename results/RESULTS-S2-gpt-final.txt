@@ -1,0 +1,15 @@
+records=1440/1440 missing=0 unparsed=0 not-stop=0 cost=$7.032
+
+== true Falling (-1): 120 intervals, complete across conditions: 120
+   frames-only acc=0.850   reversed says Rising: 0.850
+   PRIMARY grounded         n= 91 harmful(progress_log)=0.352 neutral-floor=0.000 repeat-floor=0.055  diff vs neutral=+0.352 [+0.242,+0.464]  progress_warned=0.011
+   all frames-only-correct  n=102 harmful(progress_log)=0.343 neutral-floor=0.000 repeat-floor=0.049  diff vs neutral=+0.343 [+0.242,+0.441]  progress_warned=0.010
+   marginal P(Rising|progress_log) - P(Rising|neutral_log) = +0.292 [+0.205,+0.389]  n=120
+   helpful(regress_log) on frames-only-wrong n=18: 1.000
+
+== true Rising (+1): 120 intervals, complete across conditions: 120
+   frames-only acc=0.950   reversed says Falling: 0.883
+   PRIMARY grounded         n=103 harmful(regress_log)=0.563 neutral-floor=0.000  diff vs neutral=+0.563 [+0.462,+0.660]
+   all frames-only-correct  n=114 harmful(regress_log)=0.596 neutral-floor=0.009  diff vs neutral=+0.588 [+0.496,+0.678]
+   marginal P(Falling|regress_log) - P(Falling|neutral_log) = +0.567 [+0.475,+0.659]  n=120
+   helpful(progress_log) on frames-only-wrong n=6: 0.833

@@ -1,0 +1,23 @@
+records=1440/1440 missing=0 unparsed=0 not-stop=0 cost=$3.544
+
+== true Falling (-1): 120 intervals, complete across conditions: 120
+   frames-only acc=0.892   reversed says Rising: 0.875
+   PRIMARY grounded         n= 95 harmful(progress_log)=0.168 neutral-floor=0.074 repeat-floor=0.063  diff vs neutral=+0.095 [+0.033,+0.163]  progress_warned=0.063
+   all frames-only-correct  n=107 harmful(progress_log)=0.187 neutral-floor=0.075 repeat-floor=0.065  diff vs neutral=+0.112 [+0.045,+0.183]  progress_warned=0.056
+   marginal P(Rising|progress_log) - P(Rising|neutral_log) = +0.083 [+0.017,+0.155]  n=120
+   helpful(regress_log) on frames-only-wrong n=13: 0.615
+   stratum n<=8      n= 76 frames-only acc=0.868 progress_log->Rising=0.289
+   stratum n>8       n= 44 frames-only acc=0.932 progress_log->Rising=0.182
+   stratum last seg  n= 87 frames-only acc=0.931 progress_log->Rising=0.184
+   stratum not last  n= 33 frames-only acc=0.788 progress_log->Rising=0.424
+
+== true Rising (+1): 120 intervals, complete across conditions: 120
+   frames-only acc=0.950   reversed says Falling: 0.883
+   PRIMARY grounded         n=104 harmful(regress_log)=0.135 neutral-floor=0.010  diff vs neutral=+0.125 [+0.067,+0.194]
+   all frames-only-correct  n=114 harmful(regress_log)=0.158 neutral-floor=0.018  diff vs neutral=+0.140 [+0.078,+0.205]
+   marginal P(Falling|regress_log) - P(Falling|neutral_log) = +0.133 [+0.074,+0.200]  n=120
+   helpful(progress_log) on frames-only-wrong n=6: 0.167
+   stratum n<=8      n= 31 frames-only acc=0.935 regress_log->Falling=0.258
+   stratum n>8       n= 89 frames-only acc=0.955 regress_log->Falling=0.169
+   stratum last seg  n= 26 frames-only acc=0.885 regress_log->Falling=0.115
+   stratum not last  n= 94 frames-only acc=0.968 regress_log->Falling=0.213
