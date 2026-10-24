@@ -7,7 +7,7 @@ Code, inputs and outputs for the paper by Weiyan Zhao and Sunny Yang (equal cont
 - `code/attack_logs2.json`: the eight completion claims and eight control lines per task actually used, written by `gen_a2.py` (`openai/gpt-6-luna` via OpenRouter, low reasoning effort) from the task instruction alone. Control lines matching the regular expression `\b(gripper|arm|object|cup|bowl|door|drawer|table|rack|plate|placed|grasp|lift|moved|position|open|close)` (case-insensitive) were discarded. A task was regenerated if fewer than eight remained.
 - `code/harness3.py`: main conditions (frames only, reversed, repeat, progress / regression / neutral log, warned progress log). Prompt text, fixed logs and model settings are the constants at the top of the file.
 - `code/harness4.py`: warning batch (batch 2). `code/harness6.py`: original / observe / verify batch (batch 3).
-- `code/harness7.py`: completion-claim attack; `code/harness8.py`: the same attack under the verify prompt. Gemini attack subset: 80 Falling intervals, `random.Random(20261001 + 9)`.
+- `code/harness7.py`: completion-claim attack. `code/harness8.py`: the same attack under the verify prompt. Gemini attack subset: 80 Falling intervals, `random.Random(20261001 + 9)`.
 - `code/common.py`: the 56 intervals reversal-consistent for all three judges. `code/extra4.py`: paired contrasts for Table 2.
 - `code/out*/`: raw judge outputs (one JSON line per call, with the raw answer text and parsed label). `mock_*` files are the scripted control judges.
 - `results/`: score reports produced by the scorers, and `audit-claims.md`, the manual frame audit of the 37 intervals.
