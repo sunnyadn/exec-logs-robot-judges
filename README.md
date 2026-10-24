@@ -33,7 +33,7 @@ Re-running the judges themselves (`run` instead of `score`) needs an OpenRouter 
 @inproceedings{zhao2026execlogs,
   title     = {Execution Logs Sway {VLM} Judges of Robot Progress},
   author    = {Zhao, Weiyan and Yang, Sunny},
-  booktitle = {Workshop on Safe and Productive AI Systems (SPAIS) at CoRL 2026},
+  booktitle = {SPAIS Workshop at CoRL 2026},
   year      = {2026}
 }
 ```
